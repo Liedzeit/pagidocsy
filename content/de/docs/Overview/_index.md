@@ -10,9 +10,11 @@ description: >
 
 ## Was ist der Paginator?
 
-Der Paginator ist ein Adobe-CEP-Panel, das Ihnen in InDesign Previews von kompletten K4-Ausgaben anzeigt. Per Doppelklick werden Seiten oder Seitenstrecken geöffnet und der Layouter (oder Redakteur) arbeit am wie gewohnt am Dokument. Beim Schließen werden sofort die neuen Seitenansichten angezeigt, da das Erzeugen der Seiten auf dem Client geschieht. Gleichzeitig werden die Seiten natürlich auch auf den Server, in die Cloud oder in die Datenbank geschrieben, so dass sie allen Mitarbeitern im Team zur Verfügung stehen.
+Der Paginator ist ein Adobe-CEP-Panel, das Ihnen in InDesign das Planen und Anlegen von Seiten und Seitenstrecken erlaubt. 
 
 CEP steht für Common Extensibility Platform. Damit stellt Adobe eine Technologie zur Verfügung, mit denen Drittentwickler native Panels erstellen können. Für Sie bedeutet das, dass Sie eine komplette Blattplanung verwenden können, ohne InDesign verlassen zu müssen. Das Panel kommuniziert direkt mit dem Host, das heißt, Sie planen die Seiten und InDesign legt direkt auf Ihrem Rechner die neuen Seiten an.
+
+Per Doppelklick werden Seiten oder Seitenstrecken geöffnet und der Layouter (oder Redakteur) arbeit wie gewohnt am Dokument. Beim Schließen werden sofort die neuen Seitenansichten angezeigt, da das Erzeugen der Seiten auf dem Client geschieht. Gleichzeitig werden die Seiten natürlich auch in die K4-Datenbank geschrieben, so dass sie allen Mitarbeitern im Team zur Verfügung stehen.
 
 ### Funktionsbeschreibung
 
@@ -30,7 +32,7 @@ CEP steht für Common Extensibility Platform. Damit stellt Adobe eine Technologi
 * automatisches Einchecken der erzeugten Seiten
 * Auschecken von K4-Dokument direkt aus Paginator per Doppelklick
 * Kein vjoon K4-Objektregeln-Modul notwendig
-* Ändern des K4-Status von Dokumenten über Kontext-Menü (außer im Advanced Workflow Modus)
+* Ändern des K4-Status von Dokumenten über Kontext-Menü (außer im *Advanced Workflow* Modus)
 
 
 #### Einschränkungen

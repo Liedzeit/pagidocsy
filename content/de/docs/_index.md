@@ -9,4 +9,6 @@ menu:
 ---
 Diese Dokumentation enthält Screenshots, die den Paginator unter MacOs zeigen.
 
+![cnoosenewIssue](/images/logo.png)
+
 

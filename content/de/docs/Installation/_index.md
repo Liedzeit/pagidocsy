@@ -15,12 +15,12 @@ Der Paginator wird wie jede Adobe CEP-Erweiterung in einem Extensions-Verzeichni
 
 `/Users/[username]/Library/Application\ Support/Adobe/CEP/Extensions/de.snap.PAG`
 
-{{< alert color="warning" >}}Ändern Sie die Dateien in diesem Verzeichnis niemals.{{< /alert >}}
+{{< alert color="warning" title="Achtung">}}Ändern Sie die Dateien in diesem Verzeichnis niemals.{{< /alert >}}
 
 Starten Sie InDesign neu. Im Fenster-Menü von InDesign befindet sich nun ein neuer Eintrag **Paginator**.
 
 {{< alert title="Tipp" >}}Legen Sie in InDesign ein Tastaturkürzel für diesen Menü-Befehl an.{{< /alert >}}
 
-![This is an image](/images/Menu.png)
+![This is an image](/images/menu.png)
 
 [Konfiguration](../konfiguration/): Konfigurieren Sie den Paginator nun.

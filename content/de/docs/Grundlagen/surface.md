@@ -50,9 +50,9 @@ Wenn Sie eine Ausgabe mit vorhandenen Dokumenten gewählt haben, stellt Paginato
 Wenn eine Seite mehrfach vorhanden ist, wird das durch die Warnglocke angezeigt. Klicken Sie auf die Glocke, um die andere(n) Seite(n) mit dieser Seitennummer (in diesem Fall 1) einzublenden.
 
 #### Statusleiste
-Die **Statusleiste** zeigt die K4-Statusfarbe des betreffenden Dokuments an. In der Statusleiste ist der *Name* des Dokuments zu sehen, oder die *Seitennummer*. Sie können die Ansicht wechseln, indem Sie auf die n-Taste drücken.
+Die **Statusleiste** zeigt die K4-Statusfarbe des betreffenden Dokuments an. In der Statusleiste ist der *Name* des Dokuments zu sehen, oder die *Seitennummer*. Sie können die Ansicht wechseln, indem Sie auf die **n-Taste** drücken.
 
-{{< alert >}}Achten Sie darauf, das der Paginator den **Fokus** hat, wenn Sie ein Tastaturkürzel verwenden.{{< /alert >}}
+{{< alert >}}Achten Sie darauf, dass der Paginator den **Fokus** hat, wenn Sie ein Tastaturkürzel verwenden.{{< /alert >}}
 
 Die Rahmenfarbe zeigt an, dass Seiten zum selben Layout gehören. Einseitige Dokumente haben keinen Rahmen. Blenden Sie die Rahmen mit L-Taste ein und aus.
 

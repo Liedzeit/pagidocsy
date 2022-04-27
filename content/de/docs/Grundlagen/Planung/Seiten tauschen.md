@@ -27,7 +27,7 @@ Sie können nun weitere Seiten tauschen, oder aber auf **Ausführen**  klicken (
 Nach dem Tausch sind Seitenansicht und Seite wieder synchron (die Pagina auf der Seite stimmt mit der Seitenzahl in der Statusleiste überein) und der Statusball steht auf grün.
 
 ![swappages](/images/swap3.png)
-
+![cnoosenewIssue](/images/logo.png)
 
 ### Seitenstrecken tauschen
 

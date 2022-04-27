@@ -16,7 +16,7 @@ Wir gehen darum davon aus, dass Sie mit dem [K4-System](https://www.snap.de/prod
 
 Wenn Sie nicht an einem K4-System angemeldet sind, erscheint eine entsprechende Meldung und Paginator beendet sich.
 
-Intern meldet der Paginator selbst sich auch am K4-System an. (Siehe [Konfigarationsdatei](/docs/Konfigurationsdatei/): API-User.) Der interne K4-User kommuniziert über die API mit K4. Er lädt die Ausgabeninformationen und Bilder. Das Anlegen der Seiten geschieht auf Ihrem Client mit Ihrem K4-Account.
+Intern meldet der Paginator selbst sich auch am K4-System an. (Siehe [Konfigurationsdatei](/docs/konfiguration/config/): API-User.) Der interne K4-User kommuniziert über die API mit K4. Er lädt die Ausgabeninformationen und Bilder. Das Anlegen der Seiten geschieht auf Ihrem Client mit Ihrem K4-Account.
 
 
 
