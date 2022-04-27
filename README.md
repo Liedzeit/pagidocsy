@@ -1,9 +1,6 @@
-# Docsy Example
+# Paginator Documentation
 
-[Docsy][] is a [Hugo theme module][] for technical documentation sites, providing easy
-site navigation, structure, and more. This **Docsy Example Project** uses the Docsy
-theme component as a hugo module and provides a skeleton documentation structure for you to use.
-You can clone/copy this project and edit it with your own content, or use it as an example.
+This documentation uses the Docsy theme component as a hugo module.
 
 In this project, the Docsy theme component is pulled in as a Hugo module, together with other module dependencies:
 
@@ -129,7 +126,7 @@ This error occurs if you have not installed the `go` programming language on you
 See this [section](https://www.docsy.dev/docs/get-started/docsy-as-module/installation-prerequisites/#install-go-language) of the user guide for instructions on how to install `go`.
 
 
-[alternate dashboard]: https://app.netlify.com/sites/goldydocs/deploys
+[alternate dashboard]: https://app.netlify.com/sites/Paginator/deploys
 [deploys]: https://app.netlify.com/sites/docsy-example/deploys
 [Docsy user guide]: https://docsy.dev/docs
 [Docsy]: https://github.com/google/docsy
