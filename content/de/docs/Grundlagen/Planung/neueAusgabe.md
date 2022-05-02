@@ -33,7 +33,7 @@ Paginator legt die Seiten an. Jede Seite erhält einen generischen Namen bestehe
 ![newIssue](/images/newIssue.png)
 
 
-Wählen Sie nun für jede Seite oder einen gewählten Seitenbereich aus dem Kontext-Menü eine Musterseite aus. Sie können einen Seitenbereich, wie üblich durch Anklicken mit gedrückter Shift- oder Befehlstaste selektieren. Selektierte Seiten werden mit einem blauen Rahmen dargestellt.
+Wählen Sie nun für jede Seite oder einen gewählten Seitenbereich aus dem Kontext-Menü eine Musterseite aus. Sie können einen Seitenbereich, wie üblich, durch Anklicken mit gedrückter Shift- oder Befehlstaste selektieren. Selektierte Seiten werden mit einem blauen Rahmen dargestellt.
 
 {{< alert title="Hinweis" >}}Nur zusammenhängende Seiten können einen Seitenbereich bilden.{{< /alert >}}
 
@@ -42,7 +42,7 @@ Wählen Sie nun für jede Seite oder einen gewählten Seitenbereich aus dem Kont
 ![newIssue](/images/kontext.png)
 
 
-Um einen Seitenbereich zu definieren, aus dem *ein* Dokument werden soll, wählen Sie im Kontext-Menü **Gruppieren**.
+Um einen Seitenbereich zu definieren, aus dem *ein* Dokument werden soll, wählen Sie im Kontext-Menü **Gruppieren** (alternativ **g-Taste**).
 
 Gruppierte Seiten erhalten einen farbigen Rahmen (ein- und ausblendbar mit **l-Taste**). In der Statusleiste steht die Seitennummer und das Kürzel für die gewählte Musterseite.
 
@@ -50,7 +50,7 @@ Gruppierte Seiten erhalten einen farbigen Rahmen (ein- und ausblendbar mit **l-T
 
 
 
-Sie können einzelnen Seiten oder Seitenstrecken einen eigenen Namen zuweisen. Wechseln sie mit **n-Taste** in die Namensansicht und fahren Sie mit der Maus über den Namen. Geben Sie nun einen eigenen Namen für die Seite oder die Seitenstrecke ein. 
+Sie können einzelnen Seiten oder Seitenstrecken einen eigenen Namen zuweisen. Wechseln Sie mit **n-Taste** in die Namensansicht und fahren Sie mit der Maus über den Namen. Geben Sie nun einen eigenen Namen für die Seite oder die Seitenstrecke ein. 
 
 ![changeName](/images/changeName.png)
 
@@ -60,7 +60,7 @@ Sie können einzelnen Seiten oder Seitenstrecken einen eigenen Namen zuweisen. W
 Um die Schritte der Planung abzukürzen, ist es möglich den Plan, wie er jetzt besteht, also **vor** dem Ausführen zu sichern.
 Klicken Sie auf **Plan sichern**.
 
-Geben Sie im Dialog einen Namen für Ihren Plan ein. Dieser Plan steht Ihnen im Auswahlmenü bei der nächsten Planung zur Verfügung. Anstatt neue Sieten zu planen rufen Sie dann den Plan auf, und modifizieren gegebenenfalls die zugewiesenen Musterseiten.
+Geben Sie im Dialog einen Namen für Ihren Plan ein. Dieser Plan steht Ihnen im Auswahlmenü bei der nächsten Planung zur Verfügung. Anstatt neue Seiten zu planen, rufen Sie dann den Plan auf, und modifizieren gegebenenfalls die zugewiesenen Musterseiten.
 
 {{< alert title="Hinweis" >}}Ändern Sie nicht den Speicherplatz, da Paginator beim Start die hier hinterlegten Template-Pläne ausliest.{{< /alert >}}
 

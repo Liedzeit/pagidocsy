@@ -3,14 +3,14 @@ title: "Übersicht"
 linkTitle: "Übersicht"
 weight: -1
 description: >
-  Hier finden Sie alles über die Installation bis zur täglichen Arbeit mit dem Paginator.
+  Hier finden Sie alles von der Installation bis zur täglichen Arbeit mit dem Paginator.
 ---
 
 
 
 ## Was ist der Paginator?
 
-Der Paginator ist ein Adobe-CEP-Panel, das Ihnen in InDesign das Planen und Anlegen von Seiten und Seitenstrecken erlaubt. 
+Paginator ist ein Adobe-CEP-Panel, das Ihnen in InDesign das Planen und Anlegen von Seiten und Seitenstrecken erlaubt. 
 
 CEP steht für Common Extensibility Platform. Damit stellt Adobe eine Technologie zur Verfügung, mit denen Drittentwickler native Panels erstellen können. Für Sie bedeutet das, dass Sie eine komplette Blattplanung verwenden können, ohne InDesign verlassen zu müssen. Das Panel kommuniziert direkt mit dem Host, das heißt, Sie planen die Seiten und InDesign legt direkt auf Ihrem Rechner die neuen Seiten an.
 
@@ -37,7 +37,7 @@ Per Doppelklick werden Seiten oder Seitenstrecken geöffnet und der Layouter (od
 
 #### Einschränkungen
 
-* **Ist Paginator geeignet für Sie?** Beim Hinzufügen, Verschieben und Löschen von Seiten werden alle Dokumente ausgecheckt und bearbeitet. Vorasussetzung dafür, das das funktioniert, ist, dass alle Dokumente eingecheckt sind. Wenn gleichzeitig sehr viele Mitarbeiter an den Dokumenten arbeiten, kann es für Sie vorteilhafter sein, mit einer Blattplanung zu arbeiten, die die Änderungen nicht direkt, sondern über die Objektregeln vornimmt, (was dann allerdings auch bedeutet, dass die Änderungen erst realsiert werden, wenn die Objektregeln auf den einzelnen Clients angewendet werden). 
+* **Ist Paginator geeignet für Sie?** Beim Hinzufügen, Verschieben und Löschen von Seiten werden alle Dokumente ausgecheckt und bearbeitet. Vorasussetzung dafür, dass das funktioniert, ist, dass alle Dokumente eingecheckt sind. Wenn gleichzeitig sehr viele Mitarbeiter an den Dokumenten arbeiten, kann es für Sie vorteilhafter sein, mit einer Blattplanung zu arbeiten, die die Änderungen nicht direkt, sondern über die Objektregeln vornimmt, (was dann allerdings auch bedeutet, dass die Änderungen erst realsiert werden, wenn die Objektregeln auf den einzelnen Clients angewendet werden). 
 
 * Mit Paginator werden nur InDesign-Layouts bearbeitet. Es werden *keine* Artikel oder Anzeigen angelegt.
 

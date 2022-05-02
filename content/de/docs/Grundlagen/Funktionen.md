@@ -23,6 +23,6 @@ Jede Aktion, die Sie in der Planungsphase vornehmen, führt dazu, dass neue Seit
 
 Paginator spiegelt den Zustand nach der Aktion direkt wider, wenn Sie zum Beispiel löschen, werden die Seiten aus der Ansicht herausgenommen und die Paginierung in der Statusleiste ändert sich entsprechend, aber die Seiten des Dokuments selbst bleiben unverändert, solange bis Sie die Planungsphase abschließen und auf **Ausführen** (alternativ **x-Taste** für Execute) klicken. 
 
-Wenn Sie **Ausführen** wird der aktuelle Planungszustand an den InDesign-Client übergeben, und dort werden dann die Seiten erzeugt, eingefügt, gelöscht, verschoben. Ist die Aktion abgeschlossen, wird die neu angelgte, bzw. modifizierte, Ausgabe in Paginator angezeigt. Die Pagina der Statusleiste und die tatsächliche Pagina der Seite sind synchron, der Paginator-Status in der Icon-Leiste steht wieder auf Grün.
+Wenn Sie **Ausführen**, wird der aktuelle Planungszustand an den InDesign-Client übergeben, und dort werden dann die Seiten erzeugt, eingefügt, gelöscht, verschoben. Ist die Aktion abgeschlossen, wird die neu angelegte, bzw. modifizierte, Ausgabe in Paginator angezeigt. Die Pagina der Statusleiste und die tatsächliche Pagina der Seite sind synchron, der Paginator-Status in der Icon-Leiste steht wieder auf Grün.
 
 

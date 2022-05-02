@@ -16,7 +16,7 @@ Die Logdatei (sofern das Logging eingeschaltet ist) finden Sie hier:
 `//Users/[username]/Documents/PaginatorLogs/paginator.log`
 
 
-Daneben legt Paginator ein Verzeichnis **SNAP** mit allen für die Produktion notwendigen Ordnern und Dateien an. Dieses Verzeichnis wird im Home-Verzeichnis des Paginators andgelegt (standardmäßig im Dokumente-Ordner des Benutzers).
+Daneben legt Paginator ein Verzeichnis **SNAP** mit allen für die Produktion notwendigen Ordnern und Dateien an. Dieses Verzeichnis wird im Home-Verzeichnis des Paginators angelegt (standardmäßig im Dokumente-Ordner des Benutzers).
 
 ![struktur](/images/struktur.png)
 

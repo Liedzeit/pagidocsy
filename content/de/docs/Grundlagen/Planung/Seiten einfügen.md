@@ -33,7 +33,7 @@ Klicken Sie auf **Ausführen**, und Paginator legt in dem gewählten Dokument hi
 
 #### Seiten anfügen
 
-Wenn Sie Seiten anfügen, haben die neuen Seiten in Paginator noch keine Statusfarbe. Die Seiten erhalten einen generischen Namen und es wird ihnen standardmäßig die *erste* zur Verfügung stehende Musterseite zugewiesen.
+Wenn Sie Seiten *anfügen*, haben die neuen Seiten in Paginator noch keine Statusfarbe. Die Seiten erhalten einen generischen Namen, und es wird ihnen standardmäßig die *erste* zur Verfügung stehende Musterseite zugewiesen.
 
 Sie können nun über das Kontextmenü andere Musterseiten festlegen, und gegebenenfalls die Seiten *gruppieren* und *umbenennen*.
 
@@ -41,7 +41,7 @@ Sie können nun über das Kontextmenü andere Musterseiten festlegen, und gegebe
 
 ![addPages](/images/addPages.png)
 
-Um die Seiten umzubenennen, klicken Sie in der Statusleiste auf den Namen. Die Statusleiste muss dazu den Namen anzeigen, wird stattdessen die Musterseite angezeigt, wechseln sie die Namensansicht mit **n-Taste**. Sind die Seiten gruppiert, brauchen Sie nur den Namen der ersten Seite zu ändern.
+Um die Seiten umzubenennen, klicken Sie in der Statusleiste auf den Namen. Die Statusleiste muss dazu den Namen anzeigen. Wird stattdessen die Musterseite angezeigt, wechseln Sie die Namensansicht mit **n-Taste**. Sind die Seiten gruppiert, brauchen Sie nur den Namen der ersten Seite zu ändern.
 
 ![renamePages](/images/renamePages.png)
 

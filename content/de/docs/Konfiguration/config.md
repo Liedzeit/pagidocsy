@@ -7,9 +7,9 @@ description: >
   Beschreibung der Konfigurationsdatei.
 ---
 
- Bei der Installation von Paginator wird automatisch eine Konfigurationsdatei angelegt. Die für die Funktionaltität notwendigen Einträge können über die GUI vorgenommen werden. *Wenn* Sie diese Datei von Hand ändern, berücksitigen Sie das json-Format.
+ Bei der Installation von Paginator wird automatisch eine Konfigurationsdatei angelegt. Die für die Funktionaltität notwendigen Einträge können über die GUI vorgenommen werden. *Wenn* Sie diese Datei von Hand ändern, berücksichtigen Sie das json-Format.
 
-
+{{< alert title="Tipp" >}}Laden Sie die config-Datei mit eienm Browser wie Firefox, um sicher zu sein, dass sich kein Syntaxfehler eingeschlichen hat.{{< /alert >}}
 
 
 
@@ -55,20 +55,19 @@ description: >
 | LayoutNameWithPageRange     | Der Seitenbereich wird mit in den Layoutnamen geschrieben | 
 | InDesign     | Die verwendete InDesign-Vesion | 
 | showLayoutNameInStatusBar     | Die verwendete InDesign-Vesion | 
-| K4Version     | Die verwendete K4-Version | Nur für API-Funktionalität, alle Versionen ab Version 10
+| K4Version     | Die verwendete K4-Version | Nur für API-Funktionalität, alle Versionen ab Version 10 werden unterstützt
 | homeDir     | Das Verzeichnis, in dem die Paginator-Kundendaten liegen, u.a. die Konfigurationsdatei | 
 | bgColor     | Die Hintergrundfarbe von Paginator | 
-| homeDir     | Das Verzeichnis, in dem die Paginator-Kundendaten liegen, u.a. die Konfigurationsdatei | 
 | serverAddress     | Die URL des K4-Systems| 
 | apiuser     | Ein K4-User mit Admin-Rechten | Dieser User muss Zugriffsrechte auf alle Publikationen haben, die mit Paginator verwaltet werden sollen. | 
 | apiremember     | Das Passwort für den apiuser |  |
 | enableUserZoom     | User kann in Ausgabe ein- und auszoomen |  Wir empfehlen, diesen Wert auf *false* zu belassen |
-| issueYearsToDisplayBeforeCurrent     | Das Passwort für den apiuser |  |
+| issueYearsToDisplayBeforeCurrent     | Die Anzahl der K4-Publikationsjahre vor dem aketuellen Jahr |  |
 | monthNames     | Die Monatsnamen, die für den Header verwendet werden | im Moment deaktiviert | 
 | dayNames     | Die Tagesnamen, die für den Header verwendet werden | im Moment deaktiviert | 
 | dueDateName     | Das Passwort für den apiuser |  im Moment deaktiviert|
-| nameView     | Dieser Eintrag bestimmt, welche Information im Statusbalken von Paginator eingeblendet wird.| Wird automatisch gesetzt. |
+| nameView     | Dieser Eintrag bestimmt, welche Information im Statusbalken von Paginator eingeblendet wird.| wird automatisch gesetzt|
 | NFR     | Ist ein NFR-key vorhanden? | Nur zusammen mit einem gültigen NFR-Schlüssel wirksam. Schaltet zusätzliche noch im Test befindliche Funktionen frei.|
-| 1332490595545     | K4-PublikationsId | Dieser Eintrag wird von Paginator automatisch für jede verwendete Publikation erstellt. Darin sind intern verwendete Werte enthalten. Bitte nicht von Hand editieren. |
+| 1332490595545     | K4-PublikationsId | Dieser Eintrag wird von Paginator automatisch für jede verwendete Publikation erstellt. Darin sind intern verwendete Werte enthalten. Bitte nicht von Hand editieren! |
 
 

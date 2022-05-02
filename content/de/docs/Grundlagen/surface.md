@@ -38,7 +38,7 @@ Wenn der Metadata-Bereich ausgeblendet ist, lässt er sich durch klicken auf das
 
 ![help-Icon](/images/help-icon.png) blendet ein Fenster mit Kurzerklärungen und den Tastaturkürzeln ein.
 
-![status-Icon](/images/status-icon.png) zeigt den Paginator-Status der akteullen Ausgabe ein. Wenn der *gelb* zeigt sollten Sie die Ausgabe neu berechnen lassen. Bei *rot* müssen Sie die Ausgabe neu berechnen lassen. (Durch Klicken auf **Ausführen** in der Bearbeitungsleiste)
+![status-Icon](/images/status-icon.png) zeigt den Paginator-Status der aktuellen Ausgabe ein. Wenn der *gelb* zeigt, sollten Sie die Ausgabe neu berechnen lassen. Bei *rot* müssen Sie die Ausgabe neu berechnen lassen. (Durch Klicken auf **Ausführen** in der Bearbeitungsleiste)
 
 
 ### Ausgabenansicht
@@ -54,7 +54,7 @@ Die **Statusleiste** zeigt die K4-Statusfarbe des betreffenden Dokuments an. In 
 
 {{< alert >}}Achten Sie darauf, dass der Paginator den **Fokus** hat, wenn Sie ein Tastaturkürzel verwenden.{{< /alert >}}
 
-Die Rahmenfarbe zeigt an, dass Seiten zum selben Layout gehören. Einseitige Dokumente haben keinen Rahmen. Blenden Sie die Rahmen mit L-Taste ein und aus.
+Die Rahmenfarbe zeigt an, dass Seiten zum selben Layout gehören. Einseitige Dokumente haben keinen Rahmen. Blenden Sie die Rahmen mit **l-Taste** ein und aus.
 
 
 #### Bearbeitungsleiste

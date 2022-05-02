@@ -2,4 +2,5 @@
 resources/
 node_modules/
 package-lock.json
+Readme_internal.md
 .hugo_build.lock

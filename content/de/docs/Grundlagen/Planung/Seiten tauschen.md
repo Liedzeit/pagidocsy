@@ -24,13 +24,13 @@ Sie können nun weitere Seiten tauschen, oder aber auf **Ausführen**  klicken (
 {{< alert title="Hinweis" >}}Wenn Sie versehentlich falsche Seiten getauscht haben, kehren Sie auf den abgespeicherten Ausgabenzustand zurück durch Klicken auf den ![refresh-icon](/images/refresh-icon.png) Button.{{< /alert >}}
 
 
-Nach dem Tausch sind Seitenansicht und Seite wieder synchron (die Pagina auf der Seite stimmt mit der Seitenzahl in der Statusleiste überein) und der Statusball steht auf grün.
+Nach dem Ausführen sind Seitenansicht und Seite wieder synchron (die Pagina auf der Seite stimmt mit der Seitenzahl in der Statusleiste überein) und der Statusball steht auf grün.
 
 ![swappages](/images/swap3.png)
-![cnoosenewIssue](/images/logo.png)
+
 
 ### Seitenstrecken tauschen
 
-Es ist auch möglich, mehrere Seiten zu tauschen. Selektieren Sie dazu die erste Seite einer Strecke und wählen sie im Kontextmenü der ersten Seite der zweiten Strecke **Strecken tauschen**.
+Es ist auch möglich, mehrere Seiten zu tauschen. Selektieren Sie dazu die erste Seite einer Strecke und wählen Sie im Kontextmenü der ersten Seite der zweiten Strecke **Strecken tauschen**.
 
 {{< alert title="Hinweis" >}}Es können nur Strecken mit gleicher Seitenanzahl getauscht werden.{{< /alert >}}

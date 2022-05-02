@@ -144,6 +144,10 @@ algolia_docsearch = false
 
 # Enable Lunr.js offline search
 offlineSearch = true
+offlineSearchSummaryLength = 200
+offlineSearchMaxResults 0 25
+
+
 
 # Enable syntax highlighting and copy buttons on code blocks with Prism
 prism_syntax_highlighting = false
@@ -183,7 +187,7 @@ enable = false
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 
 [[params.links.developer]]
-  name = "Developer mailing list"
+  name = "E-Mail"
   url = "https://example.org/mail"
   icon = "fa fa-envelope"
   desc = "Discuss development issues around the project"

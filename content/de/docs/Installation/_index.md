@@ -7,7 +7,8 @@ description: >
 ---
 
 {{% pageinfo %}}
-Laden Sie das Installationsprogramm <a href="https://download.cnet.com/TeamViewer/3000-7240_4-10869706.html">**hier**</a> herunter.
+<!-- Laden Sie das Installationsprogramm <a href="https://download.cnet.com/TeamViewer/3000-7240_4-10869706.html">**hier**</a> herunter.-->
+Wenden Sie sich an uns, um das Installationsprogramm zu erhalten.
 {{% /pageinfo %}}
 
 
