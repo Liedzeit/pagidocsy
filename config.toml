@@ -145,7 +145,7 @@ algolia_docsearch = false
 # Enable Lunr.js offline search
 offlineSearch = true
 offlineSearchSummaryLength = 200
-offlineSearchMaxResults 0 25
+offlineSearchMaxResults = 25
 
 
 
