@@ -12,9 +12,9 @@ Wenden Sie sich an uns, um das Installationsprogramm zu erhalten.
 {{% /pageinfo %}}
 
 
-Der Paginator wird wie jede Adobe CEP-Erweiterung in einem Extensions-Verzeichnis installiert. Das Installationsprogramm installiert den Paginator standardmäßig in der Library des users:
+Der Paginator wird wie jede Adobe CEP-Erweiterung in einem Extensions-Verzeichnis installiert. Das Installationsprogramm installiert den Paginator standardmäßig in der Library des Rechners:
 
-`/Users/[username]/Library/Application\ Support/Adobe/CEP/Extensions/de.snap.PAG`
+`/Library/Application\ Support/Adobe/CEP/Extensions/de.snap.PAG`
 
 {{< alert color="warning" title="Achtung">}}Ändern Sie die Dateien in diesem Verzeichnis niemals.{{< /alert >}}
 

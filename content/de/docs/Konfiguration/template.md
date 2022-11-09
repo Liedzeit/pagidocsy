@@ -12,8 +12,6 @@ Diese Vorlagedatei (.indt) muss lokal im SNAP-Verzeichnis liegen. Siehe [Verzeic
 
 Sie sollten diese Datei allerdings im K4-System halten. Checken Sie eine InDesign-Datei als Vorlage mit dem Namen **Paginator** in die K4-Vorlage-Ausgabe (oder Templates-Ausgabe) ein. Diese Datei sollte nur eine Seite enthalten und für jedes von Ihnen verwendete Ressort ein Musterseite enthalten. Achten Sie auch darauf, dass es in diesem Dokument keine fehlenden Schriften gibt.
 
-![Master-Pages](/images/master.png)
-
 
 Wenn Paginator beim Start keine lokale .indt-Datei findet, wird versucht, die Paginator-Vorlagedatei aus dem K4-System herunterzuladen. Aus den Informationen der Datei (Höhe, Breite, Musterseiten) wird zusätzlich eine *template.json* Datei angelegt 
 
