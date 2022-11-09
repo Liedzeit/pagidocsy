@@ -23,7 +23,12 @@ Daneben legt Paginator ein Verzeichnis **SNAP** mit allen für die Produktion no
 Innerhalb von **SNAP/PAG** befindet sich die Konfigurationsdatei von Paginator und für jede verwendete Publikation ein Ordner. In dem Publikationsordner werden von Paginator drei Unterordner angelegt, Master, Pics und Templates.
 
 ### Master
-Das Master-Verzeichnis enthält eine InDesign-Template-Datei und eine json-Datei *templates.json*, die die Struktur der Template-Datei beschreibt. Wenn keine *.indt-Datei* existiert, versucht Paginator in der Templates-Ausgabe der Publikation eine Datei mit Namen "paginator" zu finden und lokal zu kopieren. Aus dieser Datei wird die template.json-Datei erzeugt. Beim Anlegen von Ausgaben benutzt Paginator die Lokale .indt-Datei (aus Performance-Gründen). Die .json-Datei wird vom Paginator benutzt, um in der GUI die vorhandenen Musterseiten anzuzeigen, sowie um die Größe der Seiten auszulesen. Sie können sowohl die lokale Template-Datei als auch die json-Datei lokal ändern.
+
+Das Master-Verzeichnis enthält eine InDesign-Vorlagedatei (Template) und eine json-Datei *templates.json*, die die Struktur der Vorlagedatei beschreibt. 
+
+{{< alert title="Hinweis" >}}Wenn noch nicht vorhanden, legen Sie eine InDesign-Vorlagedatei in K4 an. (Siehe [Vorlagedatei](/docs/konfiguration/template/)){{< /alert >}}
+
+Wenn keine *.indt-Datei* existiert, versucht Paginator in der Templates-Ausgabe der Publikation eine Datei mit Namen "paginator" zu finden und lokal zu kopieren. Aus dieser Datei wird die template.json-Datei erzeugt. Beim Anlegen von Ausgaben benutzt Paginator die Lokale .indt-Datei (aus Performance-Gründen). Die .json-Datei wird vom Paginator benutzt, um in der GUI die vorhandenen Musterseiten anzuzeigen, sowie um die Größe der Seiten auszulesen. Sie können sowohl die lokale Template-Datei als auch die json-Datei lokal ändern.
 
 Wir empfehlen aber, das Template innerhalb des K4-Systems zu modifizieren. Klicken Sie anschließend in Paginator auf den **Voreinstellungen aktualisieren** Button. Damit werden .indt- und .json-Datei neu geschrieben
 

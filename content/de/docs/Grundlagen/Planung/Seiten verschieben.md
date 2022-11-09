@@ -11,7 +11,7 @@ description: >
 
 Seiten und Seitenstrecken lassen sich auch per Drag&Drop an eine andere Stelle der Ausgabe verschieben.
 
-Wählen Sie die erste Seite mit gedrückter **Wahl-Taste** (Option) und bewegen Sie sie. Die Seite erhält während des Draggens einen *gelben* Rahmen. Jede Seite, über die gedraggt wird, erhält einen rosa Rahmen. Wenn Sie die Mouse loslassen, wird die Seite *hinter* diese rosa Referenzseite eingefügt.
+Wählen Sie die erste Seite mit gedrückter **Wahl-Taste** (Option) und bewegen Sie sie. Die Seite erhält während des Draggens einen *gelben* Rahmen. Jede Seite, über die gedraggt wird, erhält einen rosa Rahmen. Wenn Sie die Mouse loslassen, wird die Seite *hinter* dieser rosa Referenzseite eingefügt.
 
 
 ![movePage](/images/movePage.png)
