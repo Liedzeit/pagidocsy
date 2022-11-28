@@ -14,7 +14,7 @@ Paginator ist ein Adobe-CEP-Panel, das Ihnen in InDesign das Planen und Anlegen 
 
 CEP steht für Common Extensibility Platform. Damit stellt Adobe eine Technologie zur Verfügung, mit denen Drittentwickler native Panels erstellen können. Für Sie bedeutet das, dass Sie eine komplette Blattplanung verwenden können, ohne InDesign verlassen zu müssen. Das Panel kommuniziert direkt mit dem Host, das heißt, Sie planen die Seiten und InDesign legt direkt auf Ihrem Rechner die neuen Seiten an.
 
-Per Doppelklick werden Seiten oder Seitenstrecken geöffnet und der Layouter (oder Redakteur) arbeit wie gewohnt am Dokument. Beim Schließen werden sofort die neuen Seitenansichten angezeigt, da das Erzeugen der Seiten auf dem Client geschieht. Gleichzeitig werden die Seiten natürlich auch in die K4-Datenbank geschrieben, so dass sie allen Mitarbeitern im Team zur Verfügung stehen.
+Per Doppelklick werden Seiten oder Seitenstrecken geöffnet und der Layouter (oder Redakteur) arbeitet wie gewohnt am Dokument. Beim Schließen werden sofort die neuen Seitenansichten angezeigt, da das Erzeugen der Seiten auf dem Client geschieht. Gleichzeitig werden die Seiten natürlich auch in die K4-Datenbank geschrieben, so dass sie allen Mitarbeitern im Team zur Verfügung stehen.
 
 ### Funktionsbeschreibung
 

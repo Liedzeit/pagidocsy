@@ -9,7 +9,7 @@ description: >
 Wir unterscheiden zwei Phasen bei der Arbeit mit dem Paginator. Die Bearbeitungs- und die Planungsphase.
 
 ### Bearbeitungsphase
-In der Bearbeitungsphase öffnen Sie eine vorhandene Ausgabe, um sich einen Überblick über den Stand der Produktion zu verschaffen. Sie können jedes Dokument duch Doppelklick (alternativ durch Auschecken im Kontext-Menü oder Tastaturküzel **a-Taste**) auf eine Seite auschecken und dann in InDesign bearbeiten. Solange das Dokument ausgecheckt ist, wird ein *grüner* Haken auf den Seiten des Dokuments eingeblendet. (Ist ein Dokument durch jemand anderern ausgecheckt, erkennen Sie das an einem *roten* Haken.)
+In der Bearbeitungsphase öffnen Sie eine vorhandene Ausgabe, um sich einen Überblick über den Stand der Produktion zu verschaffen. Sie können jedes Dokument durch Doppelklick (alternativ durch Auschecken im Kontext-Menü oder Tastaturküzel **a-Taste**) auf eine Seite auschecken und dann in InDesign bearbeiten. Solange das Dokument ausgecheckt ist, wird ein *grüner* Haken auf den Seiten des Dokuments eingeblendet. (Ist ein Dokument durch jemand anderen ausgecheckt, erkennen Sie das an einem *roten* Haken.)
 Nach dem Einchecken wird die neue Seitenansicht angezeigt.
 
 {{< alert >}}Das Seiten-PNG wird vom Client erzeugt. Es wird später durch die K4-Datenbankversion ersetzt.{{< /alert >}}

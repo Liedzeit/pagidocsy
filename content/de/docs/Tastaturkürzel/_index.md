@@ -3,7 +3,7 @@ title: "Tastaturkürzel"
 linkTitle: "Tastaturkürzel"
 weight: 140
 description: >
-  Paginator-Tastaturkürze
+  Paginator-Tastaturkürzel
 ---
 
 {{< alert title="Hinweis" >}}Die Tastaturkürzel funktionieren nur, wenn Paginator den *Fokus* hat. Klicken Sie im Zweifel einmal auf eine Fläche zwischen den Seiten.{{< /alert >}}

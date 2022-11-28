@@ -11,7 +11,7 @@ description: >
 
 Paginator ermöglicht das Anlegen von neuen Seiten auf zwei verschiedene Weisen.
 
-Sie können Seiten innerhalb eines *vorhandenen* Dokuments anlgegen, dazu wählen Sie im Kontextmenü **Seiten einfügen**. Oder aber, Sie legen innerhalb der Ausgabe eine *neues* Dokument mit den neuen Seiten an. In diesem Fall wählen Sie im Kontextmenü **Seiten anfügen**.
+Sie können Seiten innerhalb eines *vorhandenen* Dokuments anlegen, dazu wählen Sie im Kontextmenü **Seiten einfügen**. Oder aber, Sie legen innerhalb der Ausgabe eine *neues* Dokument mit den neuen Seiten an. In diesem Fall wählen Sie im Kontextmenü **Seiten anfügen**.
 
 ![addPage](/images/addPage.png)
 

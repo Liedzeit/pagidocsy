@@ -19,7 +19,7 @@ Workflow enthält den Namen für den K4-Standardworkflow für Layouts *Layout*.
 
 Wählen Sie hier eine Ausgabe. Die Zahl in der eckigen Klammer gibt an, wieviele Seiten die Ausgabe enthält.
 
-Wenn der Metadata-Bereich ausgeblendet ist, lässt er sich durch klicken auf das Hamburger-Menü-Icon einblenden.
+Wenn der Metadata-Bereich ausgeblendet ist, lässt er sich durch Klicken auf das Hamburger-Menü-Icon einblenden.
 
 ![This is an image](/images/auswahl.png)
 
@@ -82,7 +82,7 @@ Die Seiten, die sich unter dem Maus-Zeiger befinden, werden Fenster-füllend dar
 
 Navigieren Sie mit den Pfeiltasten durch die Ausgabe.
 
-{{< alert >}}Im Doppelseiten-Mlodus sind einige Funktionen, zum Beispiel die der Icon-Leiste deaktiviert.{{< /alert >}}
+{{< alert >}}Im Doppelseiten-Modus sind einige Funktionen, zum Beispiel die der Icon-Leiste deaktiviert.{{< /alert >}}
 
 Wechseln Sie in die Normalansicht durch Drücken der **r-Taste**.
 

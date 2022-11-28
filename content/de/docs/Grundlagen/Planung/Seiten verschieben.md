@@ -17,7 +17,7 @@ Wählen Sie die erste Seite mit gedrückter **Wahl-Taste** (Option) und bewegen 
 ![movePage](/images/movePage.png)
 
 
-{{< alert title="Hinweis" >}}Das Verschieben einer Seite *in eine Seitenstrecke* wird zur Zeit nicht unterstüzt.{{< /alert >}}
+{{< alert title="Hinweis" >}}Das Verschieben einer Seite *in eine Seitenstrecke* wird zur Zeit nicht unterstützt.{{< /alert >}}
 
 
  ### Seitenstrecken verschieben

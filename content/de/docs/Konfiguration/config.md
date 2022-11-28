@@ -7,9 +7,9 @@ description: >
   Beschreibung der Konfigurationsdatei.
 ---
 
- Bei der Installation von Paginator wird automatisch eine Konfigurationsdatei angelegt. Die für die Funktionaltität notwendigen Einträge können über die GUI vorgenommen werden. *Wenn* Sie diese Datei von Hand ändern, berücksichtigen Sie das json-Format.
+ Bei der Installation von Paginator wird automatisch eine Konfigurationsdatei angelegt. Die für die Funktionalität notwendigen Einträge können über die GUI vorgenommen werden. *Wenn* Sie diese Datei von Hand ändern, berücksichtigen Sie das json-Format.
 
-{{< alert title="Tipp" >}}Laden Sie die config-Datei mit eienm Browser wie Firefox, um sicher zu sein, dass sich kein Syntaxfehler eingeschlichen hat.{{< /alert >}}
+{{< alert title="Tipp" >}}Laden Sie die config-Datei mit einem Browser wie Firefox, um sicher zu sein, dass sich kein Syntaxfehler eingeschlichen hat.{{< /alert >}}
 
 
 
@@ -53,8 +53,8 @@ description: >
 | hideAfterCheckout     | Ausblenden des Paginator-Fensters bei Checkout von Dokumenten  | im Moment deaktiviert
 | advancedWorkFlow     | Ist der K4-Advanced Workflow für Layouts aktiv?  | 
 | LayoutNameWithPageRange     | Der Seitenbereich wird mit in den Layoutnamen geschrieben | 
-| InDesign     | Die verwendete InDesign-Vesion | 
-| showLayoutNameInStatusBar     | Die verwendete InDesign-Vesion | 
+| InDesign     | Die verwendete InDesign-Version | 
+| showLayoutNameInStatusBar     | Die verwendete InDesign-Version | 
 | K4Version     | Die verwendete K4-Version | Nur für API-Funktionalität, alle Versionen ab Version 10 werden unterstützt
 | homeDir     | Das Verzeichnis, in dem die Paginator-Kundendaten liegen, u.a. die Konfigurationsdatei | 
 | bgColor     | Die Hintergrundfarbe von Paginator | 
@@ -62,7 +62,7 @@ description: >
 | apiuser     | Ein K4-User mit Admin-Rechten | Dieser User muss Zugriffsrechte auf alle Publikationen haben, die mit Paginator verwaltet werden sollen. | 
 | apiremember     | Das Passwort für den apiuser |  |
 | enableUserZoom     | User kann in Ausgabe ein- und auszoomen |  Wir empfehlen, diesen Wert auf *false* zu belassen |
-| issueYearsToDisplayBeforeCurrent     | Die Anzahl der K4-Publikationsjahre vor dem aketuellen Jahr |  |
+| issueYearsToDisplayBeforeCurrent     | Die Anzahl der K4-Publikationsjahre vor dem aktuellen Jahr |  |
 | monthNames     | Die Monatsnamen, die für den Header verwendet werden | im Moment deaktiviert | 
 | dayNames     | Die Tagesnamen, die für den Header verwendet werden | im Moment deaktiviert | 
 | dueDateName     | Das Passwort für den apiuser |  im Moment deaktiviert|
