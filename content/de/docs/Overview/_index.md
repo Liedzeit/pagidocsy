@@ -37,12 +37,12 @@ Per Doppelklick werden Seiten oder Seitenstrecken geöffnet und der Layouter (od
 
 #### Einschränkungen
 
-* **Ist Paginator geeignet für Sie?** Beim Hinzufügen, Verschieben und Löschen von Seiten werden alle Dokumente ausgecheckt und bearbeitet. Vorasussetzung dafür, dass das funktioniert, ist, dass alle Dokumente eingecheckt sind. Wenn gleichzeitig sehr viele Mitarbeiter an den Dokumenten arbeiten, kann es für Sie vorteilhafter sein, mit einer Blattplanung zu arbeiten, die die Änderungen nicht direkt, sondern über die Objektregeln vornimmt, (was dann allerdings auch bedeutet, dass die Änderungen erst realsiert werden, wenn die Objektregeln auf den einzelnen Clients angewendet werden). 
+* **Ist Paginator geeignet für Sie?** Beim Hinzufügen, Verschieben und Löschen von Seiten werden alle Dokumente ausgecheckt und bearbeitet. Voraussetzung dafür, dass das funktioniert, ist, dass alle Dokumente eingecheckt sind. Wenn gleichzeitig sehr viele Mitarbeiter an den Dokumenten arbeiten, kann es für Sie vorteilhafter sein, mit einer Blattplanung zu arbeiten, die die Änderungen nicht direkt, sondern über die Objektregeln vornimmt, (was dann allerdings auch bedeutet, dass die Änderungen erst realsiert werden, wenn die Objektregeln auf den einzelnen Clients angewendet werden). 
 
 * Mit Paginator werden nur InDesign-Layouts bearbeitet. Es werden *keine* Artikel oder Anzeigen angelegt.
 
 
-* **Wofür eignet sich Paginator *noch* nicht?**: Paginator arbeit direkt mit dem Redaktionssystem **k4** von **vjoon** zusammen. Alle Daten werden aus der K4-Datenbank gelesen und in sie geschrieben. Wir arbeiten an einer Version, in der optional die Daten lokal und/oder in einer eigenen Paginator-Datenbank gehalten werden.
+* **Wofür eignet sich Paginator *noch* nicht?**: Paginator arbeitet direkt mit dem Redaktionssystem **k4** von **vjoon** zusammen. Alle Daten werden aus der K4-Datenbank gelesen und in sie geschrieben. Wir arbeiten an einer Version, in der optional die Daten lokal und/oder in einer eigenen Paginator-Datenbank gehalten werden.
 
 
 
