@@ -3,10 +3,10 @@ title: "Tastaturkürzel"
 linkTitle: "Tastaturkürzel"
 weight: 140
 description: >
-  Paginator-Tastaturkürzel
+  PageJinn-Tastaturkürzel
 ---
 
-{{< alert title="Hinweis" >}}Die Tastaturkürzel funktionieren nur, wenn Paginator den *Fokus* hat. Klicken Sie im Zweifel einmal auf eine Fläche zwischen den Seiten.{{< /alert >}}
+{{< alert title="Hinweis" >}}Die Tastaturkürzel funktionieren nur, wenn PageJinn den *Fokus* hat. Klicken Sie im Zweifel einmal auf eine Fläche zwischen den Seiten.{{< /alert >}}
 
 
  Aktion         | Kürzel           |

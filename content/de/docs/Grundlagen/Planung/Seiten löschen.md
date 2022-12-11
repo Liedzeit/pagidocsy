@@ -8,7 +8,7 @@ description: >
 ---
 
 
-Paginator erlaubt das Löschen von Seiten. Selektieren Sie dazu die Seiten und wählen Sie im Kontextmenü **Löschen**.
+PageJinn erlaubt das Löschen von Seiten. Selektieren Sie dazu die Seiten und wählen Sie im Kontextmenü **Löschen**.
 
 
  ![deletePages](/images/deletePages.png)

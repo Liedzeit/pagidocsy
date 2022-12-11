@@ -4,9 +4,9 @@ linkTitle: "Video"
 date: 2022-04-20
 weight: 10
 description: >
-  Paginator-Video
+  PageJinn-Video
 ---
-## Paginator Grundlagen in zwei Minuten
+## PageJinn Grundlagen in zwei Minuten
 
 
-{{< youtube id="5NAObE3iaVk" controls="yes" title="Paginator Demo in zwei Minuten">}}
+{{< youtube id="5NAObE3iaVk" controls="yes" title="PageJinn Demo in zwei Minuten">}}

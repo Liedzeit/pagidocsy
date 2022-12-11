@@ -1,4 +1,4 @@
-# Paginator Documentation
+# PageJinn Documentation
 
 für Arbeit an der Doku
 Start Hugo-Server mit:

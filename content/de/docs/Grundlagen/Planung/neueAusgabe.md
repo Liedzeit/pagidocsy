@@ -8,9 +8,9 @@ description: >
 ---
 
 ### Ausgabe planen
-Die Planung und Erzeugung einer neuen Ausgabe ist die Kernfunktion von Paginator.
+Die Planung und Erzeugung einer neuen Ausgabe ist die Kernfunktion von PageJinn.
 
-{{< alert title="Hinweis" >}}Paginator erstellt Dokumente *innerhalb* einer K4-Ausgabe. Das Anlegen der K4-Ausgabe muss im Admin von K4 geschehen.{{< /alert >}}
+{{< alert title="Hinweis" >}}PageJinn erstellt Dokumente *innerhalb* einer K4-Ausgabe. Das Anlegen der K4-Ausgabe muss im Admin von K4 geschehen.{{< /alert >}}
 
 
 
@@ -26,7 +26,7 @@ Geben Sie an wieviele Seiten die Ausgaben enthalten soll und klicken Sie auf **S
 ![emptyIssue](/images/emptyIssue.png)
 
 
-Paginator legt die Seiten an. Jede Seite erhält einen generischen Namen bestehend aus dem Namen der Ausgabe und einer durchlaufenden Seitennummer.
+PageJinn legt die Seiten an. Jede Seite erhält einen generischen Namen bestehend aus dem Namen der Ausgabe und einer durchlaufenden Seitennummer.
 
 <br>
 
@@ -62,7 +62,7 @@ Klicken Sie auf **Plan sichern**.
 
 Geben Sie im Dialog einen Namen für Ihren Plan ein. Dieser Plan steht Ihnen im Auswahlmenü bei der nächsten Planung zur Verfügung. Anstatt neue Seiten zu planen, rufen Sie dann den Plan auf, und modifizieren gegebenenfalls die zugewiesenen Musterseiten.
 
-{{< alert title="Hinweis" >}}Ändern Sie nicht den Speicherplatz, da Paginator beim Start die hier hinterlegten Template-Pläne ausliest.{{< /alert >}}
+{{< alert title="Hinweis" >}}Ändern Sie nicht den Speicherplatz, da PageJinn beim Start die hier hinterlegten Template-Pläne ausliest.{{< /alert >}}
 
 ![changeName](/images/savePlan.png)
 

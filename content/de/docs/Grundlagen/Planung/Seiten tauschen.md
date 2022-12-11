@@ -15,7 +15,7 @@ Selektieren Sie die *erste* Seite, die Sie tauschen möchten, (die Seite bekommt
 
 ![swappages](/images/swap2.png)
 
-Paginator tauscht nun zunächst die *Seitenansichtsbilder* der Seiten. Der Paginator-Status springt auf den orangefarbenen Ball, um anzuzeigen, dass eine Aktion stattgefunden hat, die aber noch nicht ausgeführt wurde.
+PageJinn tauscht nun zunächst die *Seitenansichtsbilder* der Seiten. Der PageJinn-Status springt auf den orangefarbenen Ball, um anzuzeigen, dass eine Aktion stattgefunden hat, die aber noch nicht ausgeführt wurde.
 
 Sie können nun weitere Seiten tauschen, oder aber auf **Ausführen**  klicken (alternativ: **x-Tate**), um die Seiten nun auch tatsächlich (im InDesign-Dokument) zu tauschen.
 

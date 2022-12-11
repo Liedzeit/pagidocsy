@@ -3,7 +3,7 @@ title: "Installation"
 linkTitle: "Installation"
 weight: 5
 description: >
-  Installation von Paginator
+  Installation von PageJinn
 ---
 
 {{% pageinfo %}}
@@ -12,16 +12,16 @@ Wenden Sie sich an uns, um das Installationsprogramm zu erhalten.
 {{% /pageinfo %}}
 
 
-Der Paginator wird wie jede Adobe CEP-Erweiterung in einem Extensions-Verzeichnis installiert. Das Installationsprogramm installiert den Paginator standardmäßig in der Library des Rechners:
+Der PageJinn wird wie jede Adobe CEP-Erweiterung in einem Extensions-Verzeichnis installiert. Das Installationsprogramm installiert den PageJinn standardmäßig in der Library des Rechners:
 
-`/Library/Application\ Support/Adobe/CEP/Extensions/de.snap.PAG`
+`/Library/Application\ Support/Adobe/CEP/Extensions/de.liedzeit.PAG`
 
 {{< alert color="warning" title="Achtung">}}Ändern Sie die Dateien in diesem Verzeichnis niemals.{{< /alert >}}
 
-Starten Sie InDesign neu. Im Fenster-Menü von InDesign befindet sich nun ein neuer Eintrag **Paginator**.
+Starten Sie InDesign neu. Im Fenster-Menü von InDesign befindet sich nun ein neuer Eintrag **PageJinn**.
 
 {{< alert title="Tipp" >}}Legen Sie in InDesign ein Tastaturkürzel für diesen Menü-Befehl an.{{< /alert >}}
 
 ![This is an image](/images/menu.png)
 
-[Konfiguration](../konfiguration/): Konfigurieren Sie den Paginator nun.
+[Konfiguration](../konfiguration/): Konfigurieren Sie den PageJinn nun.
