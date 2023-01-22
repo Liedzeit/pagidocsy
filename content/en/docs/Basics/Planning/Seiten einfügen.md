@@ -1,13 +1,13 @@
 ---
-title: "Seiten einfügen"
-linkTitle: "Seiten einfügen"
+title: "Insert Pages"
+linkTitle: "Insert Pages"
 date: 2022-01-05
 weight: 5
 description: >
   Wie werden Seiten in die Ausgabe eingefügt?
 ---
 
-### Seiten anlegen
+### Creating pages
 
 PageJinn ermöglicht das Anlegen von neuen Seiten auf zwei verschiedene Weisen.
 
@@ -45,4 +45,4 @@ Um die Seiten umzubenennen, klicken Sie in der Statusleiste auf den Namen. Die S
 
 ![renamePages](/images/renamePages.png)
 
-{{< alert title="Hinweis" >}}Seiten anfügen ist nur am Ende einer Seitenstrecke möglich. Wenn Sie versuchen, Seiten innerhalb der Seitenstrecke anzulegen, erscheint eine entsprechende Fehlermeldung.{{< /alert >}}
+{{< alert title="Note" >}}Seiten anfügen ist nur am Ende einer Seitenstrecke möglich. Wenn Sie versuchen, Seiten innerhalb der Seitenstrecke anzulegen, erscheint eine entsprechende Fehlermeldung.{{< /alert >}}

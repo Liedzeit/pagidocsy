@@ -16,16 +16,16 @@ We therefore assume that you are familiar with the [K4-System](https://vjoon.com
 
 If you are not logged in to the  K4 System a message appears and PageJinn quits.
 
-Intern meldet der PageJinn selbst sich auch am K4-System an. (Siehe [Konfigurationsdatei](/docs/konfiguration/config/): API-User.) Der interne K4-User kommuniziert über die API mit K4. Er lädt die Ausgabeninformationen und Bilder. Das Anlegen der Seiten geschieht auf Ihrem Client mit Ihrem K4-Account.
+Internally, the PageJinn itself also logs on to the K4 system. (See [configuration file](/docs/configuration/config/): API User.) The internal K4 user communicates with K4 via the API. It loads the output information and images. The creation of the pages happens on your client with your K4 account.
 
 
 
 
-Alle im PageJinn dargestellten Seiten sind png-Bilder der betreffenden K4-Seiten. Die Bilder werden direkt über die API aus der K4-Datenbank heruntergeladen. Voraussetzung ist darum, dass in K4 überhaupt Vorschaubilder der Seiten geschrieben werden. Die Bilder werden im K4-System entweder vom InDesign-Server berechnet oder vom Client.
+All pages displayed in PageJinn are png images of the relevant K4 pages. The images are downloaded directly from the K4 database via the API. The prerequisite is therefore that preview images of the pages are written in K4 at all. The images are rendered in the K4 system either by the InDesign server or by the client.
 
-Wenden Sie sich im Zweifelsfall an Ihren K4-Administrator.
+If in doubt, contact your K4 administrator.
 
-Für die Arbeit mit PageJinn empfehlen wir die Berechnung vom Client, da es dann bei der Darstellung der Seiten keine Verzögerung gibt. (**MakeOnServer** = false)
+For working with PageJinn we recommend creating pictures from the client, because then there is no delay in the display of the pages. (**MakeOnServer** = false)
 
 ![prefs](/images/k4Picprefs.png)
 

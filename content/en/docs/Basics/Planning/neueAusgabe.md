@@ -52,28 +52,26 @@ Grouped pages get a colored frame (can be shown and hidden with **l-key**). The 
 
 ![plan](/images/plan.png)
 
-
-
-Sie können einzelnen Seiten oder Seitenstrecken einen eigenen Namen zuweisen. Wechseln Sie mit **n-Taste** in die Namensansicht und fahren Sie mit der Maus über den Namen. Geben Sie nun einen eigenen Namen für die Seite oder die Seitenstrecke ein. 
+You can assign your own name to individual pages or page ranges. Switch to the name view with **n key** and move the mouse over the name. Now enter your own name for the page or page range. 
 
 ![changeName](/images/changeName.png)
 
 
-### Plan sichern
+### Saving the Plan
 
-Um die Schritte der Planung abzukürzen, ist es möglich den Plan, wie er jetzt besteht, also **vor** dem Ausführen zu sichern.
-Klicken Sie auf **Plan sichern**.
+To shorten the steps of planning, it is possible to save the plan as it exists now, that is **before** executing it.
+Click on **Save plan**.
 
-Geben Sie im Dialog einen Namen für Ihren Plan ein. Dieser Plan steht Ihnen im Auswahlmenü bei der nächsten Planung zur Verfügung. Anstatt neue Seiten zu planen, rufen Sie dann den Plan auf, und modifizieren gegebenenfalls die zugewiesenen Musterseiten.
+Enter a name for your plan in the dialog. This plan will be available in the selection menu during the next planning. Instead of planning new pages, you then call up the plan and modify the assigned master pages if necessary.
 
-{{< alert title="Hinweis" >}}Ändern Sie nicht den Speicherplatz, da PageJinn beim Start die hier hinterlegten Template-Pläne ausliest.{{< /alert >}}
+{{< alert title="Note" >}}Do not change the disk space, because PageJinn reads the template plans stored here at startup.{{< /alert >}}
 
 ![changeName](/images/savePlan.png)
 
 
 
-### Ausgabe erzeugen
+### Creating the Issue
 
-Klicken Sie auf **Ausführen**, um den Prozess der Ausgabenerzeugung zu starten.
+Click on **Execute** to start the process of generating the issue.
 
 ![changeName](/images/process.png)

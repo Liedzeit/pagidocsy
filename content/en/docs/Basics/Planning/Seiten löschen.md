@@ -4,23 +4,23 @@ linkTitle: "Seiten löschen"
 date: 2022-04-20
 weight: 20
 description: >
-  Wie werden Seiten gelöscht?
+  How to delete pages?
 ---
 
 
-PageJinn erlaubt das Löschen von Seiten. Selektieren Sie dazu die Seiten und wählen Sie im Kontextmenü **Löschen**.
+PageJinn allows you to delete pages. To do this, select the pages and choose **Delete** from the context menu.
 
 
  ![deletePages](/images/deletePages.png)
 
 <br>
- Es erscheint eine Warnmeldung, dass sich diese Aktion nicht rückgängig machen lässt.
+ A warning message appears that this action cannot be undone.
 
- {{< alert title="Hinweis" >}}Die Warnmeldung bezieht sich auf den Zustand *nach* Ausführen der Aktion. Solange Sie nicht Ausführen, können Sie den vorherigen Zustand durch *Reload* wieder herstellen.{{< /alert >}}
+ {{< alert title="Note" >}}The warning message refers to the state *after* executing the action. As long as you do not Execute, you can restore the previous state by *Reload*.{{< /alert >}}
 
 
- Wenn Sie *alle* Seiten eines Dokuments löschen, wird das betreffende Dokument beim Ausführen der Aktion in den K4-Papierkorb geschoben.
+If you delete *all* pages of a document, this document will be moved to the K4 trash issue.
 
-{{< alert color="warning" title="Achtung" >}}Wenn Sie Seiten *innerhalb* eines Dokuments löschen, werden die Seiten im Dokument gelöscht. Diese Seiten sind **unwiederbringlich** verloren.{{< /alert >}}
+{{< alert color="warning" title="Attention" >}}If you delete pages *within* a document, the pages are deleted **permanently**.{{< /alert >}}
 
  
