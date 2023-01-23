@@ -4,45 +4,44 @@ linkTitle: "Insert Pages"
 date: 2022-01-05
 weight: 5
 description: >
-  Wie werden Seiten in die Ausgabe eingefügt?
+  How to insert pages?
 ---
 
 ### Creating pages
 
-PageJinn ermöglicht das Anlegen von neuen Seiten auf zwei verschiedene Weisen.
+PageJinn allows you to create new pages in two different ways.
 
-Sie können Seiten innerhalb eines *vorhandenen* Dokuments anlegen, dazu wählen Sie im Kontextmenü **Seiten einfügen**. Oder aber, Sie legen innerhalb der Ausgabe eine *neues* Dokument mit den neuen Seiten an. In diesem Fall wählen Sie im Kontextmenü **Seiten anfügen**.
+You can create pages within an *existing* document by selecting **Insert Pages** from the context menu. Or, you can create a *new* document with the new pages within the K4 issue. In this case, choose **Append Pages** from the context menu.
 
 ![addPage](/images/addPage.png)
 
-Wählen Sie die Anzahl der einzufügenden/anzufügenden Seiten, entweder über das Kontext-Untermenü (1-4 Seiten) oder über einen eingeblendeten Dialog, mit dem Sie beliebig viele Seiten anlegen können.
+Select the number of pages to insert/add, either from the context submenu (1-4 pages) or from a pop-up dialog that allows you to create as many pages as you want.
 
 ![addPage](/images/multiPages.png)
 
-#### Seiten einfügen
+#### Insert pages
 
-Wenn Sie Seiten einfügen, zeigt PageJinn die neuen Seiten mit dem Status des Parent-Dokumentes an.
+When you insert pages, PageJinn displays the new pages with the status of the parent document.
 
 ![addPage](/images/insertPages.png)
 
 
-Klicken Sie auf **Ausführen**, und PageJinn legt in dem gewählten Dokument hinter der gewählten Seite die gewünschte Anzahl neuer Seiten an. Alle folgenden Dokumente erhalten die neue korrekte Pagina und werden gegebenenfalls umbenannt (wenn *LayoutNameWithPageRange* aktiv ist).
+Click **Execute**, and PageJinn creates the desired number of new pages in the selected document after the selected page. All following documents get the new correct pagination and are renamed if necessary (if *LayoutNameWithPageRange* is active).
 
+{{< alert title="Note" >}}Before performing any action, make sure that all documents in the output are checked in, since PageJinn must be able to check them out in order to change the pagination.{{< /alert >}}
 
-{{< alert title="Hinweis" >}}Bevor Sie eine Aktion ausführen, vergewissern Sie sich, dass alle Dokumente der Ausgabe eingecheckt sind, da PageJinn sie auschecken können muss, um die Paginierung zu ändern.{{< /alert >}}
+#### Append pages
 
-#### Seiten anfügen
+When you *append* pages, the new pages do not yet have a status color in PageJinn. The pages are given a generic name, and they are assigned the *first* available master page by default.
 
-Wenn Sie Seiten *anfügen*, haben die neuen Seiten in PageJinn noch keine Statusfarbe. Die Seiten erhalten einen generischen Namen, und es wird ihnen standardmäßig die *erste* zur Verfügung stehende Musterseite zugewiesen.
-
-Sie können nun über das Kontextmenü andere Musterseiten festlegen, und gegebenenfalls die Seiten *gruppieren* und *umbenennen*.
+You can now specify other master pages via the context menu, and *group* and *rename* the pages if necessary.
 
 
 
 ![addPages](/images/addPages.png)
 
-Um die Seiten umzubenennen, klicken Sie in der Statusleiste auf den Namen. Die Statusleiste muss dazu den Namen anzeigen. Wird stattdessen die Musterseite angezeigt, wechseln Sie die Namensansicht mit **n-Taste**. Sind die Seiten gruppiert, brauchen Sie nur den Namen der ersten Seite zu ändern.
+To rename the pages, click the name in the status bar. The status bar must display the name for this. If the sample page is displayed instead, change the name view with **n key**. If the pages are grouped, you only need to change the name of the first page.
 
 ![renamePages](/images/renamePages.png)
 
-{{< alert title="Note" >}}Seiten anfügen ist nur am Ende einer Seitenstrecke möglich. Wenn Sie versuchen, Seiten innerhalb der Seitenstrecke anzulegen, erscheint eine entsprechende Fehlermeldung.{{< /alert >}}
+{{< alert title="Note" >}}Adding pages is only possible at the end of a page section. If you try to create pages within the page range, a corresponding error message appears.{{< /alert >}}

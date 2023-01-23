@@ -7,7 +7,7 @@ description: >
  Wie werden Seiten getauscht?
 ---
 
-### Seiten tauschen
+### Swapping pages
 
 Selektieren Sie die *erste* Seite, die Sie tauschen möchten, (die Seite bekommt einen blauen Selektionsrahmen), fahren Sie mit der Maus über die zweite Seite und wählen Sie im Kontextmenü **Seiten tauschen**. (Alternativ: **t-Taste**).
 

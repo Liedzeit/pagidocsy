@@ -7,6 +7,7 @@ description: >
   How to delete pages?
 ---
 
+### Deleting pages
 
 PageJinn allows you to delete pages. To do this, select the pages and choose **Delete** from the context menu.
 

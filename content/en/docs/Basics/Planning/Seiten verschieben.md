@@ -7,7 +7,7 @@ description: >
   Wie werden Seiten verschoben?
 ---
 
- ## Seiten verschieben
+ ## Moving pages
 
 Seiten und Seitenstrecken lassen sich auch per Drag&Drop an eine andere Stelle der Ausgabe verschieben.
 

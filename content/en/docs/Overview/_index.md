@@ -3,37 +3,43 @@ title: "Overview"
 linkTitle: "Overview"
 weight: 1
 description: >
-  Here's where your user finds out if your project is for them.
+ Here you will find everything from installation to daily work with PageJinn.
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
 
 
-PageJinn is an Adobe CEP panel that lets you plan and create pages and page ranges in InDesign.
+## What is PageJinn?
+
+PageJinn is an Adobe CEP panel that lets you plan and create pages and page ranges in InDesign. 
 
 CEP stands for Common Extensibility Platform. With it, Adobe provides a technology that third-party developers can use to create native panels. For you, this means you can use full page planning without leaving InDesign. The panel communicates directly with the host, which means you plan the pages and InDesign creates the new pages directly on your computer.
 
+Double-click to open pages or page ranges, and the layout artist (or editor) works on the document as usual. When the document is closed, the new page views are immediately displayed, since the creation of the pages takes place on the client. (There might be a delay if you are using InDesign server.) At the same time, of course, the pages are written to the K4 database so that they are available to all team members.
 
-## What is it?
+### Function description
 
-Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
+* Planning of any number of pages/page ranges directly in InDesign
+* Assignment of InDesign master pages
+* Loading of stored issue plans
+* Creation of pages directly in the client (no InDesign server necessary)
+* Moving, swapping, inserting and deleting pages and page sections
+* Automatic repagination of all pages
+* Double-page view mode 
 
-## Why do I want it?
+### Integration with vjoon K4
 
-Help your user know if your project will help them. Useful information can include: 
+* reading K4 issues via the K4 API
+* Automatic check-in of generated pages
+* Double-click checkout of K4 document directly from PageJinn
+* No vjoon K4 object rules module required
+* Change K4 status of documents via context menu (except in *Advanced Workflow* mode)
 
-* **What is it good for?**: What types of problems does your project solve? What are the benefits of using it?
 
-* **What is it not good for?**: For example, point out situations that might intuitively seem suited for your project, but aren't for some reason. Also mention known limitations, scaling issues, or anything else that might let your users know if the project is not for them.
+#### Restrictions
 
-* **What is it *not yet* good for?**: Highlight any useful features that are coming soon.
+* **Is PageJinn suitable for you?** When adding, moving and deleting pages, all documents are checked out and processed. The prerequisite for this to work is that all documents are checked in. If you have a large number of people working on documents at the same time, it may be more advantageous for you to work with a pagination system that does not make the changes directly, but via the object rules, (which then also means that the changes are only realized when the object rules are applied to the individual clients). 
 
-## Where should I go next?
+* Only InDesign layouts are edited with PageJinn. It does *not* create articles or ads.
 
-Give your users next steps from the Overview. For example:
 
-* [Getting Started](/docs/getting-started/): Get started with $project
-* [Examples](/docs/examples/): Check out some example code!
-
+* **What is PageJinn *not* suitable for?**: PageJinn works directly with the **k4** editorial system from **vjoon**. All data is read from and written to the K4 database. We are working on a version where optionally the data is kept locally and/or in a separate PageJinn database.
