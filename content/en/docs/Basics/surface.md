@@ -9,7 +9,7 @@ description: >
 After starting PageJinn you see this window.
 
 
-![start](/images/start.png)
+![start](/images/start_e.png)
 </br></br>
 
 ### Metadata

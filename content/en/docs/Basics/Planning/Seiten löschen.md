@@ -1,6 +1,6 @@
 ---
-title: "Seiten löschen"
-linkTitle: "Seiten löschen"
+title: "Delete Pages"
+linkTitle: "Delete Pagesn"
 date: 2022-04-20
 weight: 20
 description: >

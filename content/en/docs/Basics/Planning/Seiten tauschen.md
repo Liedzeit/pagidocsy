@@ -1,10 +1,10 @@
 ---
-title: "Seiten tauschen"
-linkTitle: "Seiten tauschen"
+title: "Swap Pages"
+linkTitle: "Swap Pages"
 date: 2022-01-05
 weight: 7
 description: >
- Wie werden Seiten getauscht?
+ How to swap pages?
 ---
 
 ### Swapping pages
