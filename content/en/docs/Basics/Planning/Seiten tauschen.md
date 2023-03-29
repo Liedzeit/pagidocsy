@@ -9,22 +9,22 @@ description: >
 
 ### Swapping pages
 
-Selektieren Sie die *erste* Seite, die Sie tauschen möchten, (die Seite bekommt einen blauen Selektionsrahmen), fahren Sie mit der Maus über die zweite Seite und wählen Sie im Kontextmenü **Seiten tauschen**. (Alternativ: **t-Taste**).
+Select the  *first* of the pages you want to swap (the page gets a blue selection frame) hover over the second page and select and select **Swap Pages** in the context menu. (Alternative: **t-key**).
 
 ![swappages](/images/swappage.png)
 
 ![swappages](/images/swap2.png)
 
-PageJinn tauscht nun zunächst die *Seitenansichtsbilder* der Seiten. Der PageJinn-Status springt auf den orangefarbenen Ball, um anzuzeigen, dass eine Aktion stattgefunden hat, die aber noch nicht ausgeführt wurde.
+PageJinn will now change the *preview imgages* of the pages. The status changes to the orange circle to indicate that an action is pending but that has not yet been executed.
 
-Sie können nun weitere Seiten tauschen, oder aber auf **Ausführen**  klicken (alternativ: **x-Tate**), um die Seiten nun auch tatsächlich (im InDesign-Dokument) zu tauschen.
+You may swap additional pages or you may now click on **Execute** (alternative: **x-key**) to actually swap the pages in the InDesign-Document.
 
-{{< alert title="Hinweis" >}}Wenn der **Ausführen** Button nicht sichtbar ist, blenden Sie die Bearbeitungsleiste mit **e-Taste** ein.{{< /alert >}}
+{{< alert title="Note" >}}If the **Execute** button is not visible, hit the **e-key**.{{< /alert >}}
 
-{{< alert title="Hinweis" >}}Wenn Sie versehentlich falsche Seiten getauscht haben, kehren Sie auf den abgespeicherten Ausgabenzustand zurück durch Klicken auf den ![refresh-icon](/images/refresh-icon.png) Button.{{< /alert >}}
+{{< alert title="Note" >}}If you have accidentally swapped pages you may return to the last saved version by clicking on the Refresh button ![refresh-icon](/images/refresh-icon.png){{< /alert >}}
 
 
-Nach dem Ausführen sind Seitenansicht und Seite wieder synchron (die Pagina auf der Seite stimmt mit der Seitenzahl in der Statusleiste überein) und der Statusball steht auf grün.
+After PageJinn has performed the swapping the preview is in sync with the document. You will see that the pagina in the preview has changed and the status indicator is green again.
 
 ![swappages](/images/swap3.png)
 

@@ -19,7 +19,7 @@ Wenn Sie im Standard-Workflowmodus arbeiten (in der Konfig-Datei steht *Advanced
 
 ### Planungsphase
 In der Planungsphase planen Sie neue Ausgaben, fügen in eine existierende Ausgabe neue Seiten hinzu, löschen oder verschieben Seiten. 
-Jede Aktion, die Sie in der Planungsphase vornehmen, führt dazu, dass neue Seiten angelegt werden oder sich die Pagninierung von vorhandenen Seiten ändern soll (zum Beispiel weil Seiten eingefügt werden.)
+Jede Aktion, die Sie in der Planungsphase vornehmen, führt dazu, dass neue Seiten angelegt werden oder sich die Paginierung von vorhandenen Seiten ändern soll (zum Beispiel weil Seiten eingefügt werden.)
 
 PageJinn spiegelt den Zustand nach der Aktion direkt wider, wenn Sie zum Beispiel löschen, werden die Seiten aus der Ansicht herausgenommen und die Paginierung in der Statusleiste ändert sich entsprechend, aber die Seiten des Dokuments selbst bleiben unverändert, solange bis Sie die Planungsphase abschließen und auf **Ausführen** (alternativ **x-Taste** für Execute) klicken. 
 

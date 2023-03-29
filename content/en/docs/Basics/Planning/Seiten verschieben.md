@@ -9,7 +9,7 @@ description: >
 
  ## Moving pages
 
-Seiten und Seitenstrecken lassen sich auch per Drag&Drop an eine andere Stelle der Ausgabe verschieben.
+You can move pages and page ranges by Drag&Drop to a different position in the issue.
 
 Wählen Sie die erste Seite mit gedrückter **Wahl-Taste** (Option) und bewegen Sie sie. Die Seite erhält während des Draggens einen *gelben* Rahmen. Jede Seite, über die gedraggt wird, erhält einen rosa Rahmen. Wenn Sie die Mouse loslassen, wird die Seite *hinter* dieser rosa Referenzseite eingefügt.
 
@@ -20,7 +20,7 @@ Wählen Sie die erste Seite mit gedrückter **Wahl-Taste** (Option) und bewegen 
 {{< alert title="Hinweis" >}}Das Verschieben einer Seite *in eine Seitenstrecke* wird zur Zeit nicht unterstützt.{{< /alert >}}
 
 
- ### Seitenstrecken verschieben
+ ### Moving Page ranges
 
 Sie können auch ganze Seitenstrecken verschieben. 
 
