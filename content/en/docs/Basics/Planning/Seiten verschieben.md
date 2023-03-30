@@ -1,6 +1,6 @@
 ---
 title: "Moving Pages"
-linkTitle: "Moving ages"
+linkTitle: "Moving Pages"
 date: 2022-01-05
 weight: 18
 description: >

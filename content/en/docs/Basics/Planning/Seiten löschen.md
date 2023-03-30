@@ -1,6 +1,6 @@
 ---
 title: "Delete Pages"
-linkTitle: "Delete Pagesn"
+linkTitle: "Delete Pages"
 date: 2022-04-20
 weight: 20
 description: >

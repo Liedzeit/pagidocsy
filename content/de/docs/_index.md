@@ -9,6 +9,5 @@ menu:
 ---
 Diese Dokumentation enthält Screenshots, die den PageJinn unter MacOs zeigen.
 
-![cnoosenewIssue](/images/logo.png)
 
 
