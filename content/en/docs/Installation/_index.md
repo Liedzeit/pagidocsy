@@ -22,6 +22,5 @@ Restart InDesign. In the Window menu of InDesign there is now a new entry **Page
 
 {{< alert title="Tip" >}}Create a keyboard shortcut in InDesign for this menu command.{{< /alert >}}
 
-![This is an image](/images/menu.png)
 
 [Konfiguration](../konfiguration/): Now configure PageJinn.

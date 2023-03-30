@@ -54,20 +54,20 @@ A configuration file is automatically created when PageJinn is installed. The en
 | advancedWorkFlow     | Is K4 Advanced Workflow for Layouts active?  | 
 | LayoutNameWithPageRange     | The page range will be written into the Layout name| 
 | InDesign     | The used InDesign version | 
-| showLayoutNameInStatusBar     | Die verwendete InDesign-Version | 
+| showLayoutNameInStatusBar     | Should the name of the Layout be displayed | 
 | K4Version     | The used K4 version | Only needed for API functions, all version starting from K4 10 are supported
-| homeDir     | Das Verzeichnis, in dem die PageJinn-Kundendaten liegen, u.a. die Konfigurationsdatei | 
+| homeDir     | The folder with the PageJinn customer data including this config file | 
 | bgColor     | The background color of PageJinn | 
 | serverAddress     | The URL of the K4 System| 
 | apiuser     | A K4 user with Admin rights | This User must have access rights for all  publications you want to manage with PageJinn | 
 | apiremember     | The password for the apiuser |  |
 | enableUserZoom     | Allow user to zoom in and out |  We recommend to leave this set to *false* |
-| issueYearsToDisplayBeforeCurrent     | Die Anzahl der K4-Publikationsjahre vor dem aktuellen Jahr |  |
-| monthNames     | Die Monatsnamen, die für den Header verwendet werden | im Moment deaktiviert | 
-| dayNames     | Die Tagesnamen, die für den Header verwendet werden | im Moment deaktiviert | 
-| dueDateName     | Das Passwort für den apiuser |  im Moment deaktiviert|
-| nameView     | Dieser Eintrag bestimmt, welche Information im Statusbalken von PageJinn eingeblendet wird.| wird automatisch gesetzt|
-| NFR     | Ist ein NFR-key vorhanden? | Nur zusammen mit einem gültigen NFR-Schlüssel wirksam. Schaltet zusätzliche noch im Test befindliche Funktionen frei.|
-| 1332490595545     | K4-PublikationsId | Dieser Eintrag wird von PageJinn automatisch für jede verwendete Publikation erstellt. Darin sind intern verwendete Werte enthalten. Bitte nicht von Hand editieren! |
+| issueYearsToDisplayBeforeCurrent     | The number of years to go back from the current to display issues |  |
+| monthNames     | The names of the months used in the header | currently deactivated | 
+| dayNames     | The names of the week days used in the header | currently deactivated | 
+| dueDateName     | The name for the dueDate |  currently deactivated|
+| nameView     | This enty indicates which which information is displayed in the name field| set automatically by PageJinn|
+| NFR     | Is there a NFR key? | This will bring up additional functions. You need a valid NFR key to use this|
+| 1332490595545     | K4 publikation Id | This entry will be written by PageJinn automatically. Do not change it! |
 
 
