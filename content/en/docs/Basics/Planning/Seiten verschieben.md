@@ -4,7 +4,7 @@ linkTitle: "Moving Pages"
 date: 2022-01-05
 weight: 18
 description: >
-  Wie werden Seiten verschoben?
+  How to move pages?
 ---
 
  ## Moving pages

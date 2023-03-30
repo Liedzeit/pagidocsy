@@ -1,10 +1,10 @@
 ---
-title: "Surface"
-linkTitle: "Surface"
+title: "Interface"
+linkTitle: "Interface"
 date: 2017-01-05
 weight: 3
 description: >
-  The PageJinn surface.
+  The PageJinn interface.
 ---
 After starting PageJinn you see this window.
 
