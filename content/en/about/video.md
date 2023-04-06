@@ -6,7 +6,7 @@ weight: 10
 description: >
   PageJinn-Video
 ---
-## PageJinn Grundlagen in zwei Minuten
+## PageJinn Basics in two Minutes
 
 
-{{< youtube id="5NAObE3iaVk" controls="yes" title="PageJinn Demo in zwei Minuten">}}
+{{< youtube id="_fzfp8MuIak" controls="yes" title="PageJinn Demo in two Minutes">}}
