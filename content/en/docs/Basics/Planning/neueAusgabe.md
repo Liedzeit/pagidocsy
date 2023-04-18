@@ -20,7 +20,8 @@ Die Planung und Erzeugung einer neuen Ausgabe ist die Kernfunktion von PageJinn.
 
 Select an empty issue under *Metadata* (there is a 0 indicating the number of pages in the square brackets).
 
-![cnoosenewIssue](/images/choosenewissue_e.png)
+
+<img src="/images/choosenewissue_e.png" alt="choosenewissue_e" width="50%" height="50%">
 
 
 Specify how many pages the issue should contain and click on **Create Pages**.
