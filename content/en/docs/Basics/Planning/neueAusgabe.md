@@ -18,23 +18,23 @@ Die Planung und Erzeugung einer neuen Ausgabe ist die Kernfunktion von PageJinn.
 
 
 
-Select an empty issue under *Metadata* (there is a 0 in the square brackets).
+Select an empty issue under *Metadata* (there is a 0 indicating the number of pages in the square brackets).
 
-![cnoosenewIssue](/images/choosenewissue.png)
+![cnoosenewIssue](/images/choosenewissue_e.png)
 
 
 Specify how many pages the issue should contain and click on **Create Pages**.
 
 <br>
 
-![emptyIssue](/images/emptyIssue.png)
+![emptyIssue](/images/emptyissue_e.png)
 
 
 PageJinn creates the pages. Each page is given a generic name consisting of the name of the issue and a continuous page number.
 
 <br>
 
-![newIssue](/images/newIssue.png)
+![newIssue](/images/newissue_e.png)
 
 
 Now select a master page for each page or a selected page range from the context menu. You can select a page range, as usual, by clicking on it with the Shift or Command key pressed. Selected pages are displayed with a blue frame.
