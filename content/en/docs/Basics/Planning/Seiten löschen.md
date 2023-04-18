@@ -12,7 +12,7 @@ description: >
 PageJinn allows you to delete pages. To do this, select the pages and choose **Delete** from the context menu.
 
 
- ![deletePages](/images/deletePages_e.png)
+ <img src="/images/deletePages_e.png" alt="deletePages" width="50%" height="50%">
 
 <br>
  A warning message appears that this action cannot be undone.

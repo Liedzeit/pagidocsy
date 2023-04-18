@@ -44,12 +44,12 @@ Now select a master page for each page or a selected page range from the context
 
 
 
-![newIssue](/images/kontext.png)
+<img src="/images/kontext_e.png" alt="kontext" width="50%" height="50%">
 
 
-To define a page range that will become *one* document, choose **Group** in the context menu(alternatively **g-Key**).
+To define a page range that will become *one* document, choose **Group** in the context menu (alternatively **g Key**).
 
-Grouped pages get a colored frame (can be shown and hidden with **l-key**). The status bar shows the page number and the abbreviation for the selected master page.
+Grouped pages get a colored frame (can be shown and hidden with **l key**). The status bar shows the page number and the abbreviation for the selected master page.
 
 ![plan](/images/plan.png)
 
