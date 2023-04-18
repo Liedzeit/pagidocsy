@@ -23,7 +23,7 @@ Select the first page by holding down the **** key (Option) and drag it. The pag
 
 You can also move page ranges. 
 
-Hold down the **option key** and the **shift-key**  while dragging the *first* page of a page range. 
+Hold down the **option key** and the **shift key**  while dragging the *first* page of a page range. 
 
 {{< alert title="Note" >}}Only when you release the mouse all pages belonging to the range are actually moved to the new position.{{< /alert >}}
 
