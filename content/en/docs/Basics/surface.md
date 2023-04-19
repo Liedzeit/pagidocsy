@@ -38,14 +38,14 @@ If the Metadata area is hidden, it can be shown by clicking the hamburger menu i
 
 ![help-Icon](/images/help-icon.png) displays a window with short explanations and the keyboard shortcuts.
 
-![status-Icon](/images/status-icon.png) shows the PageJinn status of the current output. If it shows *yellow*, you should have the output recalculated. If it shows *red*, you need to have the output recalculated. (By clicking **Execute** in the edit bar).
+![status-Icon](/images/status-icon.png) shows the PageJinn status of the current issue. If it shows *yellow*, you should have the issue recalculated. If it shows *red*, you need to have the issue recalculated. (By clicking **Execute** in the edit bar).
 
 
 ### Issues View
 
 ![ausgabe](/images/ausgabe.png) 
 
-If you have selected an issue with existing documents, PageJinn displays the entire issue scaled into the existing window space. PageJinn bases its output on the highest page number found. If there is no page for an underlying page number in the output documents, the page is represented by blank pages (pages 2 and 3 in the figure).
+If you have selected an issue with existing documents, PageJinn displays the entire issue scaled into the existing window space. PageJinn bases its output on the highest page number found. If there is no page for an underlying page number in the issue documents, the page is represented by blank pages (pages 2 and 3 in the figure).
 
 If a page exists more than once, this is indicated by the warning bell. Click the bell to show the other page(s) with this page number (in this case 1).
 

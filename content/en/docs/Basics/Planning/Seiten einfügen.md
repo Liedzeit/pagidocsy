@@ -28,7 +28,7 @@ When you insert pages, PageJinn displays the new pages with the status of the pa
 
 Click **Execute**, and PageJinn creates the desired number of new pages in the selected document after the selected page. All following documents get the new correct pagination and are renamed if necessary (if *LayoutNameWithPageRange* is active).
 
-{{< alert title="Note" >}}Before performing any action, make sure that all documents in the output are checked in, since PageJinn must be able to check them out in order to change the pagination.{{< /alert >}}
+{{< alert title="Note" >}}Before performing any action, make sure that all documents in the issue are checked in, since PageJinn must be able to check them out in order to change the pagination.{{< /alert >}}
 
 #### Append pages
 

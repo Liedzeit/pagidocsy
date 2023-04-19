@@ -8,18 +8,15 @@ description: >
 ---
 
 ### Planning the Issue
-Planning and creating a new output is the core function of PageJinn.
+Planning and creating a new issue is the core function of PageJinn.
 
-
-Die Planung und Erzeugung einer neuen Ausgabe ist die Kernfunktion von PageJinn.
- 
 
 {{< alert title="Note" >}}PageJinn creates documents *within* a K4 issue. The creation of the K4 issue must be done in the admin of K4.{{< /alert >}}
 
 
 
 Select an empty issue under *Metadata* (there is a 0 indicating the number of pages in the square brackets).
-
+<br>
 
 <img src="/images/choosenewissue_e.png" alt="choosenewissue_e" width="50%" height="50%">
 
@@ -50,15 +47,15 @@ Now select a master page for each page or a selected page range from the context
 To define a page range that will become *one* document, choose **Group** in the context menu (alternatively **g Key**).
 
 Grouped pages get a colored frame (can be shown and hidden with **l key**). The status bar shows the page number and the abbreviation for the selected master page.
-<br />
+<br>
 ![plan](/images/plan.png)
 
-<br />
+<br>
 
 You can assign your own name to individual pages or page ranges. Switch to the name view with **n key** and move the mouse over the name. Now enter your own name for the page or page range. 
-<br />
+<br>
 ![changeName](/images/changeName_e.png)
-<br />
+<br>
 
 ### Saving the Plan
 
@@ -68,13 +65,11 @@ Click on **Save plan**.
 Enter a name for your plan in the dialog. This plan will be available in the selection menu during the next planning. Instead of planning new pages, you then call up the plan and modify the assigned master pages if necessary.
 
 {{< alert title="Note" >}}Do not change the disk space, because PageJinn reads the template plans stored here at startup.{{< /alert >}}
-<br />
-![changeName](/images/savePlan.png)
-<br />
+
 
 
 ### Creating the Issue
 
 Click on **Execute** to start the process of generating the issue.
-
-![changeName](/images/process.png)
+<br>
+![changeName](/images/process_e.png)

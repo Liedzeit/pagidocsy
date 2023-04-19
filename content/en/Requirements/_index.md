@@ -10,13 +10,13 @@ description: >
 **vjoon K4 ab Version 12**, Adobe InDesign 2020
 {{% /pageinfo %}}
 
-PageJinn is a module used for planning and managing K4 outputs. Therefore, a prerequisite for working with it is that you are logged in to a K4 system.
+PageJinn is a module used for planning and managing K4 issues. Therefore, a prerequisite for working with it is that you are logged in to a K4 system.
 
 We therefore assume that you are familiar with the [K4-System](https://vjoon.com/de/unser-angebot/ueberblick-k4/).
 
 If you are not logged in to the  K4 System a message appears and PageJinn quits.
 
-Internally, the PageJinn itself also logs on to the K4 system. (See [configuration file](/docs/configuration/config/): API User.) The internal K4 user communicates with K4 via the API. It loads the output information and images. The creation of the pages happens on your client with your K4 account.
+Internally, the PageJinn itself also logs on to the K4 system. (See [configuration file](/docs/configuration/config/): API User.) The internal K4 user communicates with K4 via the API. It loads the issue information and images. The creation of the pages happens on your client with your K4 account.
 
 
 
