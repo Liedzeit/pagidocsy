@@ -23,6 +23,6 @@ Every action you take in the planning phase results in the creation of new pages
 
 PageJinn directly reflects the state after the action, for example, if you delete, the pages are taken out of view and the pagination in the status bar changes accordingly, but the pages of the document itself remain unchanged until you complete the planning phase and click **Execute** (alternatively **x key** for Execute). 
 
-When you **Execute**, the current planning state is passed to the InDesign client, and there the pages are created, inserted, deleted, moved. When the action is complete, the newly created, or modified, output is displayed in PageJinn. The pagination of the status bar and the actual pagination of the page are synchronized, and the PageJinn status in the icon bar is green again.
+When you **Execute**, the current planning state is passed to the InDesign client, and there the pages are created, inserted, deleted, moved. When the action is complete, the newly created, or modified, issue is displayed in PageJinn. The pagination of the status bar and the actual pagination of the page are synchronized, and the PageJinn status in the icon bar is green again.
 
 

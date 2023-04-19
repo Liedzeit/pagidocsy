@@ -11,7 +11,7 @@ description: >
 
 You can move pages and page ranges by Drag&Drop to a different position in the issue.
 
-Select the first page by holding down the **** key (Option) and drag it. The page gets a *yellow* frame while dragging. Any page that is dragged over will have a pink frame. When you release the mouse, the page is inserted *to the right* of this pink reference page.
+Select the first page by holding down the option key and drag it. The page gets a *yellow* frame while dragging. Any page that is dragged over will have a pink frame. When you release the mouse, the page is inserted *to the right* of this pink reference page.
 
 
 ![movePage](/images/movePage.png)

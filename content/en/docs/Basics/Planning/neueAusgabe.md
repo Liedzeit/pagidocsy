@@ -50,13 +50,15 @@ Now select a master page for each page or a selected page range from the context
 To define a page range that will become *one* document, choose **Group** in the context menu (alternatively **g Key**).
 
 Grouped pages get a colored frame (can be shown and hidden with **l key**). The status bar shows the page number and the abbreviation for the selected master page.
-
+<br />
 ![plan](/images/plan.png)
 
+<br />
+
 You can assign your own name to individual pages or page ranges. Switch to the name view with **n key** and move the mouse over the name. Now enter your own name for the page or page range. 
-
-![changeName](/images/changeName.png)
-
+<br />
+![changeName](/images/changeName_e.png)
+<br />
 
 ### Saving the Plan
 
@@ -66,9 +68,9 @@ Click on **Save plan**.
 Enter a name for your plan in the dialog. This plan will be available in the selection menu during the next planning. Instead of planning new pages, you then call up the plan and modify the assigned master pages if necessary.
 
 {{< alert title="Note" >}}Do not change the disk space, because PageJinn reads the template plans stored here at startup.{{< /alert >}}
-
+<br />
 ![changeName](/images/savePlan.png)
-
+<br />
 
 
 ### Creating the Issue

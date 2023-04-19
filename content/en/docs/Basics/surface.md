@@ -38,7 +38,7 @@ If the Metadata area is hidden, it can be shown by clicking the hamburger menu i
 
 ![help-Icon](/images/help-icon.png) displays a window with short explanations and the keyboard shortcuts.
 
-![status-Icon](/images/status-icon.png) shows the PageJinn status of the current output. If the shows *yellow*, you should have the output recalculated. If it shows *red*, you need to have the output recalculated. (By clicking **Execute** in the edit bar).
+![status-Icon](/images/status-icon.png) shows the PageJinn status of the current output. If it shows *yellow*, you should have the output recalculated. If it shows *red*, you need to have the output recalculated. (By clicking **Execute** in the edit bar).
 
 
 ### Issues View
@@ -61,7 +61,7 @@ The border color indicates that pages belong to the same layout. Single-page doc
 The **edit bar** contains a drop-down menu with the available *issue plans*, a button to save a new plan, as well as an input field, and a button to create new pages.
 
 #### Views
-PageJinn always displays the entire output in the window at startup. If you enlarge or reduce the window, the display adjusts accordingly.
+PageJinn always displays the entire issue in the window at startup. If you enlarge or reduce the window, the display adjusts accordingly.
 
 If *Allow UserZoom* is enabled in the preferences, you can also zoom in and out.
 
@@ -73,14 +73,14 @@ Reset (press the **r key**) to return to the default view.
 
 ##### Double page mode
 Switch to *double page mode* by pressing the **d key**.
-The pages that are under the mouse pointer will make up the entire window - and replaced by a high-resolution version of the page image.
+The pages that are under the mouse pointer will make up the entire window - and are replaced by a high-resolution version of the page image.
 
 ![Doulblepage-mode](/images/Doulblepage-mode.png) 
 
 
 
 
-Navigate through the output using the arrow keys.
+Navigate through the issue using the arrow keys.
 
 {{< alert >}}In the double page mode some functions, for example those of the icon bar are deactivated.{{< /alert >}}
 
