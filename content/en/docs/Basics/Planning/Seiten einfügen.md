@@ -11,10 +11,10 @@ description: >
 
 PageJinn allows you to create new pages in two different ways.
 
-You can create pages within an *existing* document by selecting **Insert Pages** from the context menu. Or, you can create a *new* document with the new pages within the K4 issue. In this case, choose **Append Pages** from the context menu.
-
+You can create pages within an *existing* document by selecting **Insert Pages** from the context menu. Or, you can create a *new* document with the new pages within the K4 issue. In this case, choose **Add Pages** from the context menu.
+<br>
 <img src="/images/addPage_e.png" alt="deletePages" width="50%" height="50%">
-
+<br>
 Select the number of pages to insert/add, either from the context submenu (1-4 pages) or from a pop-up dialog that allows you to create as many pages as you want.
 
 
@@ -30,9 +30,9 @@ Click **Execute**, and PageJinn creates the desired number of new pages in the s
 
 {{< alert title="Note" >}}Before performing any action, make sure that all documents in the issue are checked in, since PageJinn must be able to check them out in order to change the pagination.{{< /alert >}}
 
-#### Append pages
+#### Add pages
 
-When you *append* pages, the new pages do not yet have a status color in PageJinn. The pages are given a generic name, and they are assigned the *first* available master page by default.
+When you *add* pages, the new pages do not yet have a status color in PageJinn. The pages are given a generic name, and they are assigned the *first* available master page by default.
 
 You can now specify other master pages via the context menu, and *group* and *rename* the pages if necessary.
 

@@ -40,9 +40,9 @@ Now select a master page for each page or a selected page range from the context
 {{< alert title="Note" >}}Only contiguous pages can form a page range.{{< /alert >}}
 
 
-
+<br>
 <img src="/images/kontext_e.png" alt="kontext" width="50%" height="50%">
-
+<br>
 
 To define a page range that will become *one* document, choose **Group** in the context menu (alternatively **g Key**).
 
@@ -53,9 +53,9 @@ Grouped pages get a colored frame (can be shown and hidden with **l key**). The 
 <br>
 
 You can assign your own name to individual pages or page ranges. Switch to the name view with **n key** and move the mouse over the name. Now enter your own name for the page or page range. 
-<br/>
+<br>
 ![changeName](/images/changeName_e.png)
-<br/>
+<br>
 
 ### Saving the Plan
 
@@ -71,5 +71,5 @@ Enter a name for your plan in the dialog. This plan will be available in the sel
 ### Creating the Issue
 
 Click on **Execute** to start the process of generating the issue.
-<br/>
+<br>
 ![changeName](/images/process_e.png)

@@ -9,9 +9,9 @@ description: >
 
 ### Swapping pages
 
-Select the  *first* of the pages you want to swap (the page gets a blue selection frame) hover over the second page and select and select **Swap Pages** in the context menu. (Alternative: **t key**).
+Select the  *first* of the pages you want to swap (the page gets a blue selection frame) hover over the second page and select and select **Swap pages** in the context menu. (Alternative: **t key**).
 
-![swappages](/images/swappage.png)
+![swappages](/images/swappage_e.png)
 
 ![swappages](/images/swap2.png)
 
@@ -31,6 +31,6 @@ After PageJinn has performed the swapping the preview is in sync with the docume
 
 ### Swapping page ranges
 
-It is also possible to swap several pages. To do this, select the first side of a range and choose **Swap page range** in the context menu of the first page of the second page range.
+It is also possible to swap several pages. To do this, select the first side of a range and choose **Swap page ranges** in the context menu of the first page of the second page range.
 
 {{< alert title="Note" >}}You can only swap page ranges with the same number of pages.{{< /alert >}}
