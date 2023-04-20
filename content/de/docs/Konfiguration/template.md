@@ -8,7 +8,7 @@ description: >
 ---
 
 PageJinn benötigt zur Darstellung und zum Anlegen von InDesign-Seiten für jede Publikation den Zugriff auf eine InDesign-Vorlagedatei.
-Diese Vorlagedatei (.indt) muss lokal im SNAP-Verzeichnis liegen. Siehe [Verzeichnisse](/docs/installation/verzeichnisse/))
+Diese Vorlagedatei (.indt) muss lokal im PageJinn-Verzeichnis liegen. Siehe [Verzeichnisse](/docs/installation/verzeichnisse/))
 
 Sie sollten diese Datei allerdings im K4-System halten. Checken Sie eine InDesign-Datei als Vorlage mit dem Namen **PageJinn** in die K4-Vorlage-Ausgabe (oder Templates-Ausgabe) ein. Diese Datei sollte nur eine Seite enthalten und für jedes von Ihnen verwendete Ressort ein Musterseite enthalten. Achten Sie auch darauf, dass es in diesem Dokument keine fehlenden Schriften gibt.
 

@@ -9,7 +9,7 @@ description: >
 
 Die eigentliche PageJinn-Software wird vom Installer hier installiert:
 
-`/Users/[username]/Library/Application\ Support/Adobe/CEP/Extensions/de.snap.PAG`
+`/Users/[username]/Library/Application\ Support/Adobe/CEP/Extensions/de.snap.PAJ`
 
 Die Logdatei (sofern das Logging eingeschaltet ist) finden Sie hier:
 
@@ -20,7 +20,7 @@ Daneben legt PageJinn ein Verzeichnis **PageJinn** mit allen für die Produktion
 
 ![struktur](/images/struktur.png)
 
-Innerhalb von **PageJinnAP/PAG** befindet sich die Konfigurationsdatei von PageJinn und für jede verwendete Publikation ein Ordner. In dem Publikationsordner werden von PageJinn drei Unterordner angelegt, Master, Pics und Templates.
+Innerhalb von **PageJinn/PAJ** befindet sich die Konfigurationsdatei von PageJinn und für jede verwendete Publikation ein Ordner. In dem Publikationsordner werden von PageJinn drei Unterordner angelegt, Master, Pics und Templates.
 
 ### Master
 
