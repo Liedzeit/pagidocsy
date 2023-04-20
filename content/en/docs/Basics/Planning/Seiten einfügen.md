@@ -13,11 +13,11 @@ PageJinn allows you to create new pages in two different ways.
 
 You can create pages within an *existing* document by selecting **Insert Pages** from the context menu. Or, you can create a *new* document with the new pages within the K4 issue. In this case, choose **Append Pages** from the context menu.
 
-![addPage](/images/addPage.png)
+<img src="/images/addPage_e.png" alt="deletePages" width="50%" height="50%">
 
 Select the number of pages to insert/add, either from the context submenu (1-4 pages) or from a pop-up dialog that allows you to create as many pages as you want.
 
-![addPage](/images/multiPages.png)
+
 
 #### Insert pages
 
@@ -38,7 +38,7 @@ You can now specify other master pages via the context menu, and *group* and *re
 
 
 
-![addPages](/images/addPages.png)
+![addPages](/images/addPages_e.png)
 
 To rename the pages, click the name in the status bar. The status bar must display the name for this. If the sample page is displayed instead, change the name view with **n key**. If the pages are grouped, you only need to change the name of the first page.
 
