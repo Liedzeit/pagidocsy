@@ -9,16 +9,16 @@ description: >
 
 Die eigentliche PageJinn-Software wird vom Installer hier installiert:
 
-`/Users/[username]/Library/Application\ Support/Adobe/CEP/Extensions/de.snap.PAJ`
+`/Users/[username]/Library/Application\ Support/Adobe/CEP/Extensions/com.snap.PAJ`
 
 Die Logdatei (sofern das Logging eingeschaltet ist) finden Sie hier:
 
-`//Users/[username]/Documents/PageJinnLogs/PageJinn.log`
+`//Users/[username]/Documents/PageJinn/PageJinn.log`
 
 
 Daneben legt PageJinn ein Verzeichnis **PageJinn** mit allen für die Produktion notwendigen Ordnern und Dateien an. Dieses Verzeichnis wird im Home-Verzeichnis des PageJinns angelegt (standardmäßig im Dokumente-Ordner des Benutzers).
 
-![struktur](/images/struktur.png)
+![struktur](/images/structure.png)
 
 Innerhalb von **PageJinn/PAJ** befindet sich die Konfigurationsdatei von PageJinn und für jede verwendete Publikation ein Ordner. In dem Publikationsordner werden von PageJinn drei Unterordner angelegt, Master, Pics und Templates.
 

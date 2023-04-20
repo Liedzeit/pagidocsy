@@ -9,11 +9,11 @@ description: >
 
 The actual PageJinn software is installed by the installer here:
 
-`/Users/[username]/Library/Application\ Support/Adobe/CEP/Extensions/en.liedzeit.PAJ`.
+`/Users/[username]/Library/Application\ Support/Adobe/CEP/Extensions/com.liedzeit.PAJ`.
 
 The log file (if logging is enabled) can be found here:
 
-`/Users/[username]/Documents/PageJinnLogs/PageJinn.log`
+`/Users/[username]/Documents/PageJinn/PageJinn.log`
 
 
 In addition, PageJinn creates a directory **PageJinn** with all folders and files necessary for production. This directory is created in PageJinn's home directory (by default in the user's documents folder).
