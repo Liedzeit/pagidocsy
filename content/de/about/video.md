@@ -9,4 +9,4 @@ description: >
 ## PageJinn Grundlagen in zwei Minuten
 
 
-{{< youtube id="5NAObE3iaVk" controls="yes" title="PageJinn Demo in zwei Minuten">}}
+{{< youtube id="tFNKfr15Jjs" controls="yes" title="PageJinn Demo in zwei Minuten">}}
