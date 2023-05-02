@@ -188,7 +188,8 @@ enable = false
 
 [[params.links.developer]]
   name = "E-Mail"
-  url = "https://example.org/mail"
+  #url = "https://example.org/mail"
+  url = "https://www.liedzeit.com/contact/"
   icon = "fa fa-envelope"
   desc = "Discuss development issues around the project"
 
