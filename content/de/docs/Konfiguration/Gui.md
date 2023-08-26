@@ -15,12 +15,15 @@ Sie können das Fenster auch jederzeit durch Klick auf das Zahnrad-Icon einblend
 
 </br></br>
 
+In der Kopfzeile befindet sich der Name des Kunden, die Anzahl der verwendeten Lizenzen und die Anzahl der vorhandenen Lizenzen, sowie, gegebenfalls, die Anzahl der noch zur Verfügungen stehenden Tage, sofern es sich um eine zeitbeschränkte Testversion handelt.
+
 | Voreinstellung            | Erkärung           | |
 |-------------------|-----------------|------|
 | API-User           | K4-User mit Admin Rechten auf alle Publikationen        |  |
 | Password            | Passwort des API-Users     ||
 | K4 Server Address     |URL des K4-Systems   |  |
 | Ausgaben der letzten *n* Jahre anzeigen           | Ausgehend vom aktuellen Jahr die Ausgaben mit entsprechendem Jahr anzeigen  |
+| K4-Version           | Die benutzte K4-Version (ab 12)  |
 | Log-Datei schreiben      | Die Logdatei wird in ein Verzeichnis **PageJinnLogs** innerhalb des Dokumente-Ordners geschrieben|
 | UserZoom erlauben     | Wenn aktiviert, kann in die Ausgabenansicht hinein- und herausgezoomt werden|
 | Zeige Layoutnamen mit PageRange     | Der Seitenbereich eines Layouts wird mit in den Namen des Dokuments geschrieben|

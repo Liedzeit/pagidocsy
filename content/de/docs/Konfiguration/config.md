@@ -25,12 +25,12 @@ description: >
 "LayoutNameWithPageRange":false,
 "InDesign":"Adobe InDesign 2021",
 "showLayoutNameInStatusBar":false,
-"K4Version":"10",
+"K4Version":"14",
 "homeDir":"~/Documents/",
 "bgColor":"#aabbcc",
 "serverAddress":"http://127.0.0.1:9090/K4Server",
 "apiuser":"PageJinn",
-"apipw":"k4",
+"apipwsecret":"",
 "apiremember":false,
 "enableUserZoom":false,
 "issueYearsToDisplayBeforeCurrent":"1",
@@ -55,12 +55,12 @@ description: >
 | LayoutNameWithPageRange     | Der Seitenbereich wird mit in den Layoutnamen geschrieben | 
 | InDesign     | Die verwendete InDesign-Version | 
 | showLayoutNameInStatusBar     | Die verwendete InDesign-Version | 
-| K4Version     | Die verwendete K4-Version | Nur für API-Funktionalität, alle Versionen ab Version 10 werden unterstützt
+| K4Version     | Die verwendete K4-Version | Nur für API-Funktionalität, alle Versionen ab Version 12 werden unterstützt
 | homeDir     | Das Verzeichnis, in dem die PageJinn-Kundendaten liegen, u.a. die Konfigurationsdatei | 
 | bgColor     | Die Hintergrundfarbe von PageJinn | 
 | serverAddress     | Die URL des K4-Systems| 
 | apiuser     | Ein K4-User mit Admin-Rechten | Dieser User muss Zugriffsrechte auf alle Publikationen haben, die mit PageJinn verwaltet werden sollen. | 
-| apiremember     | Das Passwort für den apiuser |  |
+| apipwsecret     | Das Passwort für den apiuser. *Achtung*, dieses Passwort ist verschlüsselt. Geben Sie das K4-Passwort über die Config-Oberfläche von PageJinn ein. |  |
 | enableUserZoom     | User kann in Ausgabe ein- und auszoomen |  Wir empfehlen, diesen Wert auf *false* zu belassen |
 | issueYearsToDisplayBeforeCurrent     | Die Anzahl der K4-Publikationsjahre vor dem aktuellen Jahr |  |
 | monthNames     | Die Monatsnamen, die für den Header verwendet werden | im Moment deaktiviert | 

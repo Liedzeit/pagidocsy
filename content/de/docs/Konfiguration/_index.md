@@ -15,7 +15,7 @@ Zusätzlich zu der eigentlichen Software wird bei der Installation eine Konfigur
 
 
 Die Konfigurationsdatei enthält Standardeinstellungen, mit denen das Verhalten von PageJinn beeinflusst wird.
-Vermutlich müssen einige der Einstellungen, wie der Pfad zu Ihrem K4-System und Benutzer- und Passwort, von Ihnen geändert werden, bevor der PageJinn einsatzbereit ist.
+Vermutlich müssen einige der Einstellungen, wie der Pfad zu Ihrem K4-System und Benutzer- und Passwort, von Ihnen geändert werden, bevor PageJinn einsatzbereit ist.
 
 Sie können die Konfigurationsdatei von Hand ändern. Alle wichtigen und für den Betrieb notwendigen Einstellungen lassen sich aber auch innerhalb des PageJinns vornehmen. 
 
