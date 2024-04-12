@@ -7,7 +7,7 @@ description: >
 ---
 
 {{% pageinfo %}}
-**vjoon K4 ab Version 12**, Adobe InDesign 2020
+**vjoon K4 ab Version 15**, ab Adobe InDesign 2024
 {{% /pageinfo %}}
 
 PageJinn ist ein Modul, das für die Planung und Verwaltung von K4-Ausgaben eingesetzt wird. Voraussetzung für die Arbeit ist darum, dass Sie an einem K4-System angemeldet sind.

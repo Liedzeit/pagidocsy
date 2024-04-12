@@ -14,7 +14,7 @@ Contact us to get the installation program.
 
 PageJinn is installed in an extensions directory like any Adobe CEP extension. The installer installs PageJinn in the computer's library by default:
 
-`/Library/Application\ Support/Adobe/CEP/Extensions/de.liedzeit.PAJ`
+`/Library/Application\ Support/Adobe/CEP/Extensions/com.liedzeit.PAJ`
 
 {{< alert color="warning" title="Attention">}}Never change the files in this directory.{{< /alert >}}
 

@@ -9,7 +9,7 @@ description: >
 
 Die eigentliche PageJinn-Software wird vom Installer hier installiert:
 
-`/Users/[username]/Library/Application\ Support/Adobe/CEP/Extensions/com.snap.PAJ`
+`/Library/Application\ Support/Adobe/CEP/Extensions/com.liedzeit.PAJ`
 
 Die Logdatei (sofern das Logging eingeschaltet ist) finden Sie hier:
 
